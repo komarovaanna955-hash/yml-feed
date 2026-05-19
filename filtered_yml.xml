@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-05-19 11:09">
+<yml_catalog date="2026-05-19 13:41">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -127,7 +127,7 @@
       </offer>
       <offer id="208548" available="true">
         <name>4BLANC Вытяжка ALIZE с настольным креплением</name>
-        <price>37990</price>
+        <price>47990</price>
         <currencyId>RUR</currencyId>
         <categoryId>12</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_39817.jpg</picture>
@@ -137,7 +137,7 @@
       </offer>
       <offer id="189008" available="true">
         <name>SUN 1 NEW Лампа с кварцевыми диодами, 48W</name>
-        <price>3125.5</price>
+        <price>3290</price>
         <currencyId>RUR</currencyId>
         <categoryId>11</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_38683.jpg</picture>
@@ -157,7 +157,7 @@
       </offer>
       <offer id="227325" available="true">
         <name>BSG ANTICRATER Топ без л/с, 20 мл</name>
-        <price>712.5</price>
+        <price>750</price>
         <currencyId>RUR</currencyId>
         <categoryId>76</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_42180.jpg</picture>
@@ -178,7 +178,7 @@
       </offer>
       <offer id="24602" available="true">
         <name>F-FREZA ТВС фреза кукуруза зеленая с крупной крестообразной нарезкой Т10</name>
-        <price>585</price>
+        <price>650</price>
         <currencyId>RUR</currencyId>
         <categoryId>17</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_3880.jpg</picture>
@@ -198,7 +198,7 @@
       </offer>
       <offer id="173000" available="true">
         <name>LISA PROFI Пилка тонкая прямая серая мини 180/240, на деревянной основе, 50 шт</name>
-        <price>360</price>
+        <price>400</price>
         <currencyId>RUR</currencyId>
         <categoryId>43</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_35457.jpg</picture>
@@ -299,7 +299,7 @@
       </offer>
       <offer id="169518" available="true">
         <name>BSG Glossy Fluid База универсальная, 20 мл</name>
-        <price>522.5</price>
+        <price>550</price>
         <currencyId>RUR</currencyId>
         <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_34174.jpg</picture>
@@ -329,7 +329,7 @@
       </offer>
       <offer id="73424" available="true">
         <name>Палочки апельсиновые 11,5 см (100 шт./уп.)</name>
-        <price>92.150002</price>
+        <price>95</price>
         <currencyId>RUR</currencyId>
         <categoryId>23</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_19685.jpg</picture>
@@ -339,7 +339,7 @@
       </offer>
       <offer id="76496" available="true">
         <name>SMART Спонжик-диск M, 25 шт</name>
-        <price>380</price>
+        <price>400</price>
         <currencyId>RUR</currencyId>
         <categoryId>103</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_20683.jpg</picture>
@@ -350,7 +350,7 @@
       <offer id="30215" available="true">
         <name>NARTIST Smart Base Rubber, 30 гр</name>
         <vendor>Россия</vendor>
-        <price>990</price>
+        <price>1100</price>
         <currencyId>RUR</currencyId>
         <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_10134.jpg</picture>
@@ -391,7 +391,7 @@
       </offer>
       <offer id="132069" available="true">
         <name>КМИЗ Набор 5 шт алмазных фрез пламя красная 2.3х10 мм Россия Казань А94</name>
-        <price>450</price>
+        <price>600</price>
         <currencyId>RUR</currencyId>
         <categoryId>17</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_27828.jpg</picture>
@@ -401,7 +401,7 @@
       </offer>
       <offer id="170128" available="true">
         <name>LISA PROFI Пилка тонкая прямая серая мини 100/180, на деревянной основе, 50 шт</name>
-        <price>380</price>
+        <price>400</price>
         <currencyId>RUR</currencyId>
         <categoryId>43</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_34467.jpg</picture>
@@ -411,7 +411,7 @@
       </offer>
       <offer id="132063" available="true">
         <name>КМИЗ Набор 5 шт алмазных фрез пламя красная 2.1х8 мм Россия Казань А92</name>
-        <price>450</price>
+        <price>600</price>
         <currencyId>RUR</currencyId>
         <categoryId>17</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_27827.jpg</picture>
@@ -431,7 +431,7 @@
       </offer>
       <offer id="72988" available="true">
         <name>SMART Молекулярное масло perfume, 100 мл</name>
-        <price>1567.5</price>
+        <price>1650</price>
         <currencyId>RUR</currencyId>
         <categoryId>24</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_19575.jpg</picture>
@@ -462,7 +462,7 @@
       </offer>
       <offer id="23678" available="true">
         <name>ОПТИМАКС ПРОФ концентрат для инструментов и поверхностей, 1 л</name>
-        <price>683.84998</price>
+        <price>705</price>
         <currencyId>RUR</currencyId>
         <categoryId>52</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_8217.jpg</picture>
@@ -472,7 +472,7 @@
       </offer>
       <offer id="229563" available="true">
         <name>BENOVY Перчатки нитриловые голубые 3 гр 100 штук/50 пар (S/Малые)</name>
-        <price>325</price>
+        <price>365</price>
         <currencyId>RUR</currencyId>
         <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_42466.jpg</picture>
@@ -482,7 +482,7 @@
       </offer>
       <offer id="177341" available="true">
         <name>MOODNAIL Топ FIX, 10 мл</name>
-        <price>350.54999</price>
+        <price>369</price>
         <currencyId>RUR</currencyId>
         <categoryId>76</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_36061.jpg</picture>
@@ -492,7 +492,7 @@
       </offer>
       <offer id="134982" available="true">
         <name>F-FREZA ТВС фреза конус сиреневая с крестообразно-поперечной нарезкой Т85</name>
-        <price>666</price>
+        <price>740</price>
         <currencyId>RUR</currencyId>
         <categoryId>17</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_29661.jpg</picture>
@@ -503,7 +503,7 @@
       <offer id="17549" available="true">
         <name>YOKO Ножницы для кутикулы Y SN 103</name>
         <vendor>For nails</vendor>
-        <price>863.09998</price>
+        <price>959</price>
         <currencyId>RUR</currencyId>
         <categoryId>15</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_7105.jpg</picture>
@@ -575,7 +575,7 @@
       </offer>
       <offer id="98221" available="true">
         <name>SMART Молекулярное масло Fresh fruit, 100 мл</name>
-        <price>1567.5</price>
+        <price>1650</price>
         <currencyId>RUR</currencyId>
         <categoryId>25</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_23176.jpg</picture>
@@ -615,7 +615,7 @@
       </offer>
       <offer id="208572" available="true">
         <name>4BLANC Вытяжка PRO с настольным креплением</name>
-        <price>64990</price>
+        <price>79990</price>
         <currencyId>RUR</currencyId>
         <categoryId>12</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_39816.jpg</picture>
@@ -656,7 +656,7 @@
       </offer>
       <offer id="229675" available="true">
         <name>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (M/Средние)</name>
-        <price>369</price>
+        <price>410</price>
         <currencyId>RUR</currencyId>
         <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_42457.jpg</picture>
@@ -697,7 +697,7 @@
       <offer id="42911" available="true">
         <name>BEAJOY Простыни одноразовые в рулоне 70*200 см спанбонд 10 гр/м2, белый, 100 шт</name>
         <vendor>LAK</vendor>
-        <price>522</price>
+        <price>580</price>
         <currencyId>RUR</currencyId>
         <categoryId>22</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_11358.jpg</picture>
@@ -707,7 +707,7 @@
       </offer>
       <offer id="229555" available="true">
         <name>BENOVY Перчатки нитриловые голубые 3 гр 100 штук/50 пар (M/Средние)</name>
-        <price>325</price>
+        <price>365</price>
         <currencyId>RUR</currencyId>
         <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_42464.jpg</picture>
@@ -759,7 +759,7 @@
       </offer>
       <offer id="72984" available="true">
         <name>SMART Лечебное масло ORGANIC OIL, 30 мл</name>
-        <price>1187.5</price>
+        <price>1250</price>
         <currencyId>RUR</currencyId>
         <categoryId>25</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_19576.jpg</picture>
@@ -790,7 +790,7 @@
       </offer>
       <offer id="137389" available="true">
         <name>STERITIMER Пакет комбинированный плоский 100х200 мм, 100 шт</name>
-        <price>270</price>
+        <price>300</price>
         <currencyId>RUR</currencyId>
         <categoryId>55</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_30062.jpg</picture>
@@ -820,7 +820,7 @@
       </offer>
       <offer id="229547" available="true">
         <name>BENOVY Перчатки нитриловые белые 3,5 гр 100 штук/50 пар (S/Малые)</name>
-        <price>412.25</price>
+        <price>425</price>
         <currencyId>RUR</currencyId>
         <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_42458.jpg</picture>
@@ -840,7 +840,7 @@
       </offer>
       <offer id="229699" available="true">
         <name>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (M/Средние)</name>
-        <price>345</price>
+        <price>445</price>
         <currencyId>RUR</currencyId>
         <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_42446.jpg</picture>
@@ -850,7 +850,7 @@
       </offer>
       <offer id="107019" available="true">
         <name>NAIL REPUBLIC Гель-лак №000 Белый экстра, 10 мл</name>
-        <price>399</price>
+        <price>420</price>
         <currencyId>RUR</currencyId>
         <categoryId>79</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_26474.jpg</picture>
@@ -860,7 +860,7 @@
       </offer>
       <offer id="192997" available="true">
         <name>LISA PROFI Пилка лодка 100/180, 25 шт</name>
-        <price>400</price>
+        <price>500</price>
         <currencyId>RUR</currencyId>
         <categoryId>43</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25659.jpg/public/dir_files/items/image_39169.jpg</picture>
