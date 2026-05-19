@@ -85,7 +85,7 @@ currency = ET.SubElement(
     "currency"
 )
 
-currency.set("id", "RUB")
+currency.set("id", "RUR")
 currency.set("rate", "1")
 
 # =========================================================
@@ -177,6 +177,9 @@ for needed_name in needed_products:
 
         image_url = str(product.get("image", "")).strip()
         if image_url:
+            # Убираем экранирование слешей, если оно есть
+            image_url = image_url.replace("\\/", "/")
+
             # Если ссылка относительная (начинается с /), добавляем домен
             if image_url.startswith('/'):
                 image_url = f"https://barbaris66.ru{image_url}"
