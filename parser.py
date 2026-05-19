@@ -129,15 +129,24 @@ print("Сопоставление товаров...")
 for needed_name in needed_products:
     needed_name_clean = str(needed_name).strip().lower()
 
-    # 1. Пробуем точное совпадение
+    # 1. Пробуем СТРОГОЕ совпадение (без учета регистра)
     product = products_by_name.get(needed_name_clean)
     
-    # 2. Если не нашли, пробуем частичное совпадение (как в старой логике)
+    # 2. Если строгого нет, ищем самое длинное совпадение или первое вхождение
+    if not product:
+        for p_name, p_data in products_by_name.items():
+            # Проверяем, что названия идентичны после очистки лишних пробелов
+            if p_name.strip() == needed_name_clean:
+                product = p_data
+                break
+
+    # 3. И только если совсем ничего не нашли, пробуем частичное "вхождение"
     if not product:
         for p_name, p_data in products_by_name.items():
             if needed_name_clean in p_name:
                 product = p_data
                 break
+
 
     if product:
         product_name = str(product.get("name", "")).strip()
@@ -166,9 +175,17 @@ for needed_name in needed_products:
         cat_name = str(product.get("category", "Товары")).strip()
         ET.SubElement(offer, "categoryId").text = str(category_map.get(cat_name, 1))
 
-        image_url = str(product.get("image", ""))
+        image_url = str(product.get("image", "")).strip()
         if image_url:
+            # Если ссылка относительная (начинается с /), добавляем домен
+            if image_url.startswith('/'):
+                image_url = f"https://barbaris66.ru{image_url}"
+            
+            # Яндекс лучше работает с https
+            image_url = image_url.replace("http://", "https://")
+            
             ET.SubElement(offer, "picture").text = image_url
+
 
         ET.SubElement(offer, "url").text = str(product.get("url", ""))
 
