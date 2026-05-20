@@ -177,15 +177,39 @@ for needed_name in needed_products:
 
         image_url = str(product.get("image", "")).strip()
         if image_url:
-            # Убираем экранирование слешей, если оно есть
+            # Убираем экранирование слешей
             image_url = image_url.replace("\\/", "/")
 
-            # Если ссылка относительная (начинается с /), добавляем домен
-            if image_url.startswith('/'):
+            # Сайт склеивает ссылки. Мы разделяем их по расширению файла.
+            import re
+            if ".jpg" in image_url.lower() or ".png" in image_url.lower():
+                # Разрезаем строку везде, где есть расширение
+                parts = re.split(r'(\.jpg|\.png|\.jpeg)', image_url, flags=re.IGNORECASE)
+                # Собираем ссылки обратно (часть с текстом + расширение)
+                found_links = []
+                for i in range(0, len(parts)-1, 2):
+                    link = parts[i] + parts[i+1]
+                    # Очищаем от мусора: если внутри ссылки остался старый домен, берем только то, что после последнего http
+                    if "http" in link:
+                        link = "http" + link.split("http")[-1]
+                    found_links.append(link)
+                
+                if found_links:
+                    # Берем САМУЮ ПОСЛЕДНЮЮ ссылку из склеенных
+                    image_url = found_links[-1].strip()
+
+            # Проверяем, есть ли уже домен в ссылке
+            if "barbaris66.ru" in image_url:
+                if not image_url.startswith("http"):
+                    image_url = "https://" + image_url.lstrip("/")
+            elif image_url.startswith('/'):
                 image_url = f"https://barbaris66.ru{image_url}"
             
-            # Яндекс лучше работает с https
+            # Исправляем возможные ошибки протокола
             image_url = image_url.replace("http://", "https://")
+            # Убираем двойные слеши, кроме https://
+            image_url = re.sub(r'(?<!:)/+', '/', image_url)
+            image_url = image_url.replace("https:/barbaris66.ru", "https://barbaris66.ru")
             
             ET.SubElement(offer, "picture").text = image_url
 
