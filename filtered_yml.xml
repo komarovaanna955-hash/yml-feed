@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-05-20 09:37">
+<yml_catalog date="2026-05-20 04:39">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -166,14 +166,14 @@
         <vendorCode>227325</vendorCode>
       </offer>
       <offer id="13070" available="true">
-        <name>LOVELY Клей для наращивания ресниц "Marvel" черный, 5 мл</name>
+        <name>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 5 мл</name>
         <vendor>Россия</vendor>
         <price>1078</price>
         <currencyId>RUR</currencyId>
         <categoryId>32</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_486.jpg</picture>
         <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Marvel-5-ml</url>
-        <description>LOVELY Клей для наращивания ресниц "Marvel" черный, 5 мл. Товар в наличии.</description>
+        <description>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 5 мл. Товар в наличии.</description>
         <vendorCode>13070</vendorCode>
       </offer>
       <offer id="24602" available="true">
@@ -450,14 +450,14 @@
         <vendorCode>217923</vendorCode>
       </offer>
       <offer id="13061" available="true">
-        <name>LOVELY Клей для наращивания ресниц "Cleopatra" черный, 5 мл</name>
+        <name>LOVELY Клей для наращивания ресниц &quot;Cleopatra&quot; черный, 5 мл</name>
         <vendor>Россия</vendor>
         <price>1518</price>
         <currencyId>RUR</currencyId>
         <categoryId>32</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_487.jpg</picture>
         <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Cleopatra-5-ml</url>
-        <description>LOVELY Клей для наращивания ресниц "Cleopatra" черный, 5 мл. Товар в наличии.</description>
+        <description>LOVELY Клей для наращивания ресниц &quot;Cleopatra&quot; черный, 5 мл. Товар в наличии.</description>
         <vendorCode>13061</vendorCode>
       </offer>
       <offer id="23678" available="true">
@@ -624,13 +624,13 @@
         <vendorCode>208572</vendorCode>
       </offer>
       <offer id="170706" available="true">
-        <name>LOVELY Клей для наращивания ресниц "Tornado" черный, 3 мл</name>
+        <name>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 3 мл</name>
         <price>869</price>
         <currencyId>RUR</currencyId>
         <categoryId>32</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34579.jpg</picture>
         <url>https://barbaris66.ru/product/lovely-kley-dlya-naraschivaniya-resnits-tornado-chernyiy--3-ml</url>
-        <description>LOVELY Клей для наращивания ресниц "Tornado" черный, 3 мл. Товар в наличии.</description>
+        <description>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 3 мл. Товар в наличии.</description>
         <vendorCode>170706</vendorCode>
       </offer>
       <offer id="170685" available="true">
