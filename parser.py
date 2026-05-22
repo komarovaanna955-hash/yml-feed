@@ -78,6 +78,7 @@ ET.SubElement(shop, "url").text = SHOP_URL
 # ВАЛЮТЫ
 # =========================================================
 
+print("Обработка валют...")
 currencies = ET.SubElement(shop, "currencies")
 
 currency = ET.SubElement(
@@ -85,7 +86,7 @@ currency = ET.SubElement(
     "currency"
 )
 
-currency.set("id", "RUR")
+currency.set("id", "RUB")
 currency.set("rate", "1")
 
 # =========================================================
@@ -169,8 +170,22 @@ for needed_name in needed_products:
         if brand:
             ET.SubElement(offer, "vendor").text = str(brand)
 
-        ET.SubElement(offer, "price").text = str(product.get("price", 0))
-        ET.SubElement(offer, "currencyId").text = "RUR"
+        price = product.get("price", 0)
+        old_price = product.get("old_price")
+
+        ET.SubElement(offer, "price").text = str(price)
+        ET.SubElement(offer, "currencyId").text = "RUB"
+
+        # Если есть старая цена и она больше текущей, добавляем теги для Яндекса и VK
+        if old_price:
+            try:
+                if float(old_price) > float(price):
+                    # Тег для Яндекса
+                    ET.SubElement(offer, "oldprice").text = str(old_price)
+                    # Тег для VK
+                    ET.SubElement(offer, "old_price").text = str(old_price)
+            except (ValueError, TypeError):
+                pass
 
         cat_name = str(product.get("category", "Товары")).strip()
         ET.SubElement(offer, "categoryId").text = str(category_map.get(cat_name, 1))
