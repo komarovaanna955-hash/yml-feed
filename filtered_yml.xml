@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-05-22 05:06">
+<yml_catalog date="2026-05-22 10:38">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -187,6 +187,16 @@
         <url>https://barbaris66.ru/product/freza-tverdosplavnaya-kukuruza-zelenaya-s-krupnoy-krestoobraznoy-narezkoy-406001-t10</url>
         <description>F-FREZA ТВС фреза кукуруза зеленая с крупной крестообразной нарезкой Т10. Товар в наличии.</description>
         <vendorCode>24602</vendorCode>
+      </offer>
+      <offer id="97451" available="true">
+        <name>STRONG Аппарат 211/H400RU без педали, в коробке, Корея</name>
+        <price>18850</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_22021.jpg</picture>
+        <url>https://barbaris66.ru/product/apparat-Strong-211_H400RU-bez-pedali-v-korobke-37-000-ob_min-koreya</url>
+        <description>STRONG Аппарат 211/H400RU без педали, в коробке, Корея. Товар в наличии.</description>
+        <vendorCode>97451</vendorCode>
       </offer>
       <offer id="153347" available="true">
         <name>HOLY MOLLY Топ BRILLIANT, 15 мл</name>
@@ -579,16 +589,6 @@
         <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-STRONG-Uno-30-ml4</url>
         <description>UNO База Strong, 30мл. Товар в наличии.</description>
         <vendorCode>102275</vendorCode>
-      </offer>
-      <offer id="149837" available="true">
-        <name>BLIQUE Акригель №800 прозрачный 60 гр.</name>
-        <price>1090</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>20</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_32142.jpg</picture>
-        <url>https://barbaris66.ru/product/BLIQUE-akrigel-800-prozrachnyiy-60-gr</url>
-        <description>BLIQUE Акригель №800 прозрачный 60 гр.. Товар в наличии.</description>
-        <vendorCode>149837</vendorCode>
       </offer>
       <offer id="131895" available="true">
         <name>Гидрогелевые патчи для изоляции нижних ресниц, 50 пар</name>
