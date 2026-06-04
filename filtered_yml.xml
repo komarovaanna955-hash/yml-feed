@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-06-03 20:00">
+<yml_catalog date="2026-06-04 11:36">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -127,7 +127,7 @@
       </offer>
       <offer id="208548" available="true">
         <name>4BLANC Вытяжка ALIZE с настольным креплением</name>
-        <price>37990</price>
+        <price>31499</price>
         <currencyId>RUB</currencyId>
         <oldprice>47990</oldprice>
         <old_price>47990</old_price>
@@ -492,7 +492,7 @@
       <offer id="17549" available="true">
         <name>YOKO Ножницы для кутикулы Y SN 103</name>
         <vendor>For nails</vendor>
-        <price>959</price>
+        <price>849</price>
         <currencyId>RUB</currencyId>
         <categoryId>16</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_7105.jpg</picture>
@@ -604,7 +604,7 @@
       </offer>
       <offer id="208572" available="true">
         <name>4BLANC Вытяжка PRO с настольным креплением</name>
-        <price>64990</price>
+        <price>61499</price>
         <currencyId>RUB</currencyId>
         <oldprice>79990</oldprice>
         <old_price>79990</old_price>
@@ -667,6 +667,17 @@
         <description>BLOOM База Rubber, 50 мл. Товар в наличии.</description>
         <vendorCode>168303</vendorCode>
       </offer>
+      <offer id="27113" available="true">
+        <name>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 5 мл</name>
+        <vendor>Bloom</vendor>
+        <price>1199</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>34</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_9098.jpg</picture>
+        <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Tornado-5-ml</url>
+        <description>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 5 мл. Товар в наличии.</description>
+        <vendorCode>27113</vendorCode>
+      </offer>
       <offer id="217947" available="true">
         <name>MARATHON АППАРАТ 3N/H35LSP, без педали</name>
         <price>17650</price>
@@ -686,17 +697,6 @@
         <url>https://barbaris66.ru/product/smart-molekulyarnoe-maslo-maldivyi--100-ml</url>
         <description>SMART Молекулярное масло Мальдивы, 100 мл. Товар в наличии.</description>
         <vendorCode>222519</vendorCode>
-      </offer>
-      <offer id="42911" available="true">
-        <name>BEAJOY Простыни одноразовые в рулоне 70*200 см спанбонд 10 гр/м2, белый, 100 шт</name>
-        <vendor>LAK</vendor>
-        <price>580</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>23</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_11358.jpg</picture>
-        <url>https://barbaris66.ru/product/prostyini-70200-sm-v-rulone-belyie-SMS-100-sht_rul</url>
-        <description>BEAJOY Простыни одноразовые в рулоне 70*200 см спанбонд 10 гр/м2, белый, 100 шт. Товар в наличии.</description>
-        <vendorCode>42911</vendorCode>
       </offer>
       <offer id="229555" available="true">
         <name>BENOVY Перчатки нитриловые голубые 3 гр 100 штук/50 пар (M/Средние)</name>
