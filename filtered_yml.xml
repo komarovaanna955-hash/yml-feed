@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-06-07 21:52">
+<yml_catalog date="2026-06-08 14:41">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -359,6 +359,16 @@
         <description>NARTIST Smart Base Rubber, 30 гр. Товар в наличии.</description>
         <vendorCode>30215</vendorCode>
       </offer>
+      <offer id="64755" available="true">
+        <name>ФЕРРОПЛАСТ-5 Стерилизатор воздушный</name>
+        <price>32708</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_17479.jpg</picture>
+        <url>https://barbaris66.ru/product/ferroplast-5-sterilizator-vozdushnyiy</url>
+        <description>ФЕРРОПЛАСТ-5 Стерилизатор воздушный. Товар в наличии.</description>
+        <vendorCode>64755</vendorCode>
+      </offer>
       <offer id="24620" available="true">
         <name>F-FREZA ТВС фреза кукуруза сиреневая с крестообразно-поперечной нарезкой Т9</name>
         <vendor>Россия</vendor>
@@ -413,16 +423,6 @@
         <url>https://barbaris66.ru/product/Bloom-baza-dlya-gel-laka-kauchukovaya-15-ml</url>
         <description>BLOOM База Rubber, 15 мл. Товар в наличии.</description>
         <vendorCode>46248</vendorCode>
-      </offer>
-      <offer id="72988" available="true">
-        <name>SMART Молекулярное масло perfume, 100 мл</name>
-        <price>1650</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>26</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_19575.jpg</picture>
-        <url>https://barbaris66.ru/product/SMART-molekulyarnoe-maslo-100-ml</url>
-        <description>SMART Молекулярное масло perfume, 100 мл. Товар в наличии.</description>
-        <vendorCode>72988</vendorCode>
       </offer>
       <offer id="217923" available="true">
         <name>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали</name>
@@ -814,6 +814,17 @@
         <url>https://barbaris66.ru/product/lisa-profi-pilka-lodka-100_180--50-sht</url>
         <description>LISA PROFI Пилка лодка 100/180, 25 шт. Товар в наличии.</description>
         <vendorCode>192997</vendorCode>
+      </offer>
+      <offer id="16319" available="true">
+        <name>UNO База Rubber, 30 мл</name>
+        <vendor>Германия</vendor>
+        <price>1350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>72</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_3686.jpg</picture>
+        <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-RUBBER-Uno-30-ml</url>
+        <description>UNO База Rubber, 30 мл. Товар в наличии.</description>
+        <vendorCode>16319</vendorCode>
       </offer>
       <offer id="189512" available="true">
         <name>MONAMI База SCOTCH, 15 мл</name>
