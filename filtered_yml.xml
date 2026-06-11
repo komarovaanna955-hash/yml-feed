@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-06-10 23:16">
+<yml_catalog date="2026-06-11 13:04">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -229,16 +229,6 @@
         <description>LISA PROFI Пилка тонкая прямая серая 180/240, на деревянной основе, 50 шт. Товар в наличии.</description>
         <vendorCode>170121</vendorCode>
       </offer>
-      <offer id="207360" available="true">
-        <name>MARATHON АППАРАТ N2R/H37LN, без педали</name>
-        <price>14290</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_39686.jpg</picture>
-        <url>https://barbaris66.ru/product/marathon-apparat-n2r_h37ln--bez-pedali</url>
-        <description>MARATHON АППАРАТ N2R/H37LN, без педали. Товар в наличии.</description>
-        <vendorCode>207360</vendorCode>
-      </offer>
       <offer id="19676" available="true">
         <name>Мини баф-шлифовщик, цвет в ассортименте, 50 шт</name>
         <price>250</price>
@@ -279,16 +269,6 @@
         <description>BSG ACRY VISCOUS База с акриловой пудрой, 20 мл. Товар в наличии.</description>
         <vendorCode>169329</vendorCode>
       </offer>
-      <offer id="217931" available="true">
-        <name>MARATHON АППАРАТ CHAMPION 3/H35LSP, без педали</name>
-        <price>13430</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_41009.jpg</picture>
-        <url>https://barbaris66.ru/product/marathon-apparat-champion-3_h35lsp--bez-pedali</url>
-        <description>MARATHON АППАРАТ CHAMPION 3/H35LSP, без педали. Товар в наличии.</description>
-        <vendorCode>217931</vendorCode>
-      </offer>
       <offer id="169518" available="true">
         <name>BSG Glossy Fluid База универсальная, 20 мл</name>
         <price>550</price>
@@ -308,16 +288,6 @@
         <url>https://barbaris66.ru/product/ferroplast-10-sterilizator-vozdushnyiy</url>
         <description>ФЕРРОПЛАСТ-10 Стерилизатор воздушный. Товар в наличии.</description>
         <vendorCode>64747</vendorCode>
-      </offer>
-      <offer id="217939" available="true">
-        <name>MARATHON АППАРАТ N2R/H35LSP, без педали</name>
-        <price>14290</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_41006.jpg</picture>
-        <url>https://barbaris66.ru/product/marathon-apparat-n2r_h35lsp--bez-pedali</url>
-        <description>MARATHON АППАРАТ N2R/H35LSP, без педали. Товар в наличии.</description>
-        <vendorCode>217939</vendorCode>
       </offer>
       <offer id="73424" available="true">
         <name>Палочки апельсиновые 11,5 см (100 шт./уп.)</name>
@@ -415,16 +385,6 @@
         <description>BLOOM База Rubber, 15 мл. Товар в наличии.</description>
         <vendorCode>46248</vendorCode>
       </offer>
-      <offer id="217923" available="true">
-        <name>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали</name>
-        <price>13430</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_41008.jpg</picture>
-        <url>https://barbaris66.ru/product/marathon-apparat-champion-3_h37ln--bez-pedali</url>
-        <description>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали. Товар в наличии.</description>
-        <vendorCode>217923</vendorCode>
-      </offer>
       <offer id="23678" available="true">
         <name>ОПТИМАКС ПРОФ концентрат для инструментов и поверхностей, 1 л</name>
         <price>705</price>
@@ -489,16 +449,6 @@
         <url>https://barbaris66.ru/product/verakso-manikyurnaya-vyityajka-m800</url>
         <description>VERAKSO Маникюрная вытяжка М800. Товар в наличии.</description>
         <vendorCode>209619</vendorCode>
-      </offer>
-      <offer id="6539" available="true">
-        <name>GEL-OFF Обезжириватель PREMIUM, 1000 мл</name>
-        <price>690</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_6775.jpg</picture>
-        <url>https://barbaris66.ru/product/GEL-OFF-obezjirivatel-Cleaner-Professional-PREMIUM-1000-ml</url>
-        <description>GEL-OFF Обезжириватель PREMIUM, 1000 мл. Товар в наличии.</description>
-        <vendorCode>6539</vendorCode>
       </offer>
       <offer id="29738" available="true">
         <name>UNO База Strong, 16 мл</name>
@@ -637,16 +587,6 @@
         <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Tornado-5-ml</url>
         <description>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 5 мл. Товар в наличии.</description>
         <vendorCode>27113</vendorCode>
-      </offer>
-      <offer id="217947" available="true">
-        <name>MARATHON АППАРАТ 3N/H35LSP, без педали</name>
-        <price>17650</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_41010.jpg</picture>
-        <url>https://barbaris66.ru/product/marathon-apparat-3n_h35lsp--bez-pedali</url>
-        <description>MARATHON АППАРАТ 3N/H35LSP, без педали. Товар в наличии.</description>
-        <vendorCode>217947</vendorCode>
       </offer>
       <offer id="229555" available="true">
         <name>BENOVY Перчатки нитриловые голубые 3 гр 100 штук/50 пар (M/Средние)</name>
