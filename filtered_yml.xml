@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-06-15 20:49">
+<yml_catalog date="2026-06-16 03:33">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -268,16 +268,6 @@
         <url>https://barbaris66.ru/product/freza-tverdosplavnaya-konus-zelenyiy-s-krupnoy-krestoobraznoy-narezkoy-407102-t13</url>
         <description>F-FREZA ТВС фреза конус зеленая с крупной крестообразной нарезкой Т13. Товар в наличии.</description>
         <vendorCode>24593</vendorCode>
-      </offer>
-      <offer id="172993" available="true">
-        <name>LISA PROFI Пилка тонкая прямая серая 100/180, на деревянной основе, 50 шт</name>
-        <price>650</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>45</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_35456.jpg</picture>
-        <url>https://barbaris66.ru/product/lisa-profi-pilka-tonkaya-100_180-pryamaya-seraya--na-derevyannoy-osnove--50-sht</url>
-        <description>LISA PROFI Пилка тонкая прямая серая 100/180, на деревянной основе, 50 шт. Товар в наличии.</description>
-        <vendorCode>172993</vendorCode>
       </offer>
       <offer id="169329" available="true">
         <name>BSG ACRY VISCOUS База с акриловой пудрой, 20 мл</name>
