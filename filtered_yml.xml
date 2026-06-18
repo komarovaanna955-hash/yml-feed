@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-06-18 02:58">
+<yml_catalog date="2026-06-18 10:13">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -64,52 +64,53 @@
       <category id="54">Жидкости для инструментов и поверхностей</category>
       <category id="55">Кожные антисептики</category>
       <category id="56">Емкости для дезинфекции и стерилизации</category>
-      <category id="57">Гель-лак LOVELY</category>
-      <category id="58">Воск для депиляции</category>
-      <category id="59">Гель-пасты для дизайна ногтей</category>
-      <category id="60">Стемпинг</category>
-      <category id="61">Гель-лак MONAMI</category>
-      <category id="62">Средства для ухода за кожей лица</category>
-      <category id="63">KAPOUS</category>
-      <category id="64">Гель-лак Луи Филипп</category>
-      <category id="65">Пилки NOGTURNE</category>
-      <category id="66">Гель-лак BLIQUE</category>
-      <category id="67">Гель-лак MIO Nails</category>
-      <category id="68">Гель-лак MOLTINI</category>
-      <category id="69">Пилки STALEKS</category>
-      <category id="70">Nippon Nippers</category>
-      <category id="71">Праймеры, дегидраторы</category>
-      <category id="72">Базы для геля, гель-лака</category>
-      <category id="73">Базы камуфлирующие</category>
-      <category id="74">Топы с липким слоем</category>
-      <category id="75">Топы без липкого слоя</category>
-      <category id="76">Матовые топы</category>
-      <category id="77">Топы для дизайна</category>
-      <category id="78">Гель-лак Nail Republic</category>
-      <category id="79">Сухоцветы</category>
-      <category id="80">SMART</category>
-      <category id="81">Жидкие гели и полигели</category>
-      <category id="82">Пленка для ногтей</category>
-      <category id="83">Акриловые фломастеры</category>
-      <category id="84">Гель-лак MOODNAIL</category>
-      <category id="85">Пилки ЧИЛПИЛ</category>
-      <category id="86">Уход за полостью рта</category>
-      <category id="87">Гель-лак OSN</category>
-      <category id="88">Поталь</category>
-      <category id="89">Шестигранники, конфетти</category>
-      <category id="90">Объемный дизайн</category>
-      <category id="91">Пигменты</category>
-      <category id="92">Гель-лак MYKO</category>
-      <category id="93">ZITZ PRO</category>
-      <category id="94">Гель-лак iPERFECT</category>
-      <category id="95">Лак SOUL nails</category>
-      <category id="96">Стикеры</category>
-      <category id="97">Лак IQ BEAUTY</category>
-      <category id="98">Гель-лак MOJO</category>
-      <category id="99">Гель-лак NAVI</category>
-      <category id="100">Основы</category>
-      <category id="101">Сменные файлы-диски</category>
-      <category id="102">Гель-лак Кошачий глаз</category>
+      <category id="57">Крафт-пакеты</category>
+      <category id="58">Гель-лак LOVELY</category>
+      <category id="59">Воск для депиляции</category>
+      <category id="60">Гель-пасты для дизайна ногтей</category>
+      <category id="61">Стемпинг</category>
+      <category id="62">Гель-лак MONAMI</category>
+      <category id="63">Средства для ухода за кожей лица</category>
+      <category id="64">KAPOUS</category>
+      <category id="65">Гель-лак Луи Филипп</category>
+      <category id="66">Пилки NOGTURNE</category>
+      <category id="67">Гель-лак BLIQUE</category>
+      <category id="68">Гель-лак MIO Nails</category>
+      <category id="69">Гель-лак MOLTINI</category>
+      <category id="70">Пилки STALEKS</category>
+      <category id="71">Nippon Nippers</category>
+      <category id="72">Праймеры, дегидраторы</category>
+      <category id="73">Базы для геля, гель-лака</category>
+      <category id="74">Базы камуфлирующие</category>
+      <category id="75">Топы с липким слоем</category>
+      <category id="76">Топы без липкого слоя</category>
+      <category id="77">Матовые топы</category>
+      <category id="78">Топы для дизайна</category>
+      <category id="79">Гель-лак Nail Republic</category>
+      <category id="80">Сухоцветы</category>
+      <category id="81">SMART</category>
+      <category id="82">Жидкие гели и полигели</category>
+      <category id="83">Пленка для ногтей</category>
+      <category id="84">Акриловые фломастеры</category>
+      <category id="85">Гель-лак MOODNAIL</category>
+      <category id="86">Пилки ЧИЛПИЛ</category>
+      <category id="87">Уход за полостью рта</category>
+      <category id="88">Гель-лак OSN</category>
+      <category id="89">Поталь</category>
+      <category id="90">Шестигранники, конфетти</category>
+      <category id="91">Объемный дизайн</category>
+      <category id="92">Пигменты</category>
+      <category id="93">Гель-лак MYKO</category>
+      <category id="94">ZITZ PRO</category>
+      <category id="95">Гель-лак iPERFECT</category>
+      <category id="96">Лак SOUL nails</category>
+      <category id="97">Стикеры</category>
+      <category id="98">Лак IQ BEAUTY</category>
+      <category id="99">Гель-лак MOJO</category>
+      <category id="100">Гель-лак NAVI</category>
+      <category id="101">Основы</category>
+      <category id="102">Сменные файлы-диски</category>
+      <category id="103">Гель-лак Кошачий глаз</category>
     </categories>
     <offers>
       <offer id="8" available="true">
@@ -159,7 +160,7 @@
         <name>BSG ANTICRATER Топ без л/с, 20 мл</name>
         <price>750</price>
         <currencyId>RUB</currencyId>
-        <categoryId>75</categoryId>
+        <categoryId>76</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_42180.jpg</picture>
         <url>https://barbaris66.ru/product/bsg-anticrater-top-bez-l_s--20-ml</url>
         <description>BSG ANTICRATER Топ без л/с, 20 мл. Товар в наличии.</description>
@@ -190,7 +191,7 @@
         <name>HOLY MOLLY Топ BRILLIANT, 15 мл</name>
         <price>680</price>
         <currencyId>RUB</currencyId>
-        <categoryId>75</categoryId>
+        <categoryId>76</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_32587.jpg</picture>
         <url>https://barbaris66.ru/product/holy-molly-top-brilliant--15-ml</url>
         <description>HOLY MOLLY Топ BRILLIANT, 15 мл. Товар в наличии.</description>
@@ -221,7 +222,7 @@
         <name>NARTIST Smart Base Rubber, 15 мл</name>
         <price>750</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_9683.jpg</picture>
         <url>https://barbaris66.ru/product/NARTIST-kauchukovaya-baza-Smart-Base-Rubber-15-ml</url>
         <description>NARTIST Smart Base Rubber, 15 мл. Товар в наличии.</description>
@@ -271,7 +272,7 @@
         <name>BSG ACRY VISCOUS База с акриловой пудрой, 20 мл</name>
         <price>650</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34147.jpg</picture>
         <url>https://barbaris66.ru/product/bsg-acry-baza-s-akrilovoy-pudroy--20-ml</url>
         <description>BSG ACRY VISCOUS База с акриловой пудрой, 20 мл. Товар в наличии.</description>
@@ -291,7 +292,7 @@
         <name>BSG Glossy Fluid База универсальная, 20 мл</name>
         <price>550</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34174.jpg</picture>
         <url>https://barbaris66.ru/product/bsg-glossy-fluid-baza-universalnaya--20-ml</url>
         <description>BSG Glossy Fluid База универсальная, 20 мл. Товар в наличии.</description>
@@ -321,7 +322,7 @@
         <name>SMART Спонжик-диск M, 25 шт</name>
         <price>400</price>
         <currencyId>RUB</currencyId>
-        <categoryId>101</categoryId>
+        <categoryId>102</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_20683.jpg</picture>
         <url>https://barbaris66.ru/product/SMART-sponjik-disk-M-dlya-polirovki-25-sht</url>
         <description>SMART Спонжик-диск M, 25 шт. Товар в наличии.</description>
@@ -332,7 +333,7 @@
         <vendor>Россия</vendor>
         <price>1100</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_10134.jpg</picture>
         <url>https://barbaris66.ru/product/NARTIST-kauchukovaya-baza-Smart-Base-Rubber-30-g</url>
         <description>NARTIST Smart Base Rubber, 30 гр. Товар в наличии.</description>
@@ -397,7 +398,7 @@
         <name>BLOOM База Rubber, 15 мл</name>
         <price>575</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_12400.jpg</picture>
         <url>https://barbaris66.ru/product/Bloom-baza-dlya-gel-laka-kauchukovaya-15-ml</url>
         <description>BLOOM База Rubber, 15 мл. Товар в наличии.</description>
@@ -439,7 +440,7 @@
         <name>MOODNAIL Топ FIX, 10 мл</name>
         <price>369</price>
         <currencyId>RUB</currencyId>
-        <categoryId>75</categoryId>
+        <categoryId>76</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_36061.jpg</picture>
         <url>https://barbaris66.ru/product/moodnail-top-fix--10-ml</url>
         <description>MOODNAIL Топ FIX, 10 мл. Товар в наличии.</description>
@@ -503,7 +504,7 @@
         <vendor>LAK</vendor>
         <price>850</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_9982.jpg</picture>
         <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-STRONG-Uno-15-ml</url>
         <description>UNO База Strong, 16 мл. Товар в наличии.</description>
@@ -514,7 +515,7 @@
         <vendor>Германия</vendor>
         <price>890</price>
         <currencyId>RUB</currencyId>
-        <categoryId>75</categoryId>
+        <categoryId>76</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_1604.jpg</picture>
         <url>https://barbaris66.ru/product/verhnee-pokryitie-dlya-gel-laka-Uno-SUPER-SHINE-bez-lipkogo-sloya-15ml</url>
         <description>UNO Топ Super Shine без л/с, 16 мл. Товар в наличии.</description>
@@ -534,7 +535,7 @@
         <name>NARTIST Топ Ultra, 15 мл</name>
         <price>700</price>
         <currencyId>RUB</currencyId>
-        <categoryId>75</categoryId>
+        <categoryId>76</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_19792.jpg</picture>
         <url>https://barbaris66.ru/product/NARTIST-top-Ultra-bez-lipkogo-sloya-15-ml</url>
         <description>NARTIST Топ Ultra, 15 мл. Товар в наличии.</description>
@@ -544,7 +545,7 @@
         <name>HOLY MOLLY База RUBBER, 15 мл</name>
         <price>680</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_32560.jpg</picture>
         <url>https://barbaris66.ru/product/holy-molly-baza-rubber--15-ml</url>
         <description>HOLY MOLLY База RUBBER, 15 мл. Товар в наличии.</description>
@@ -554,7 +555,7 @@
         <name>UNO База Strong, 30мл</name>
         <price>1350</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25498.jpg</picture>
         <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-STRONG-Uno-30-ml4</url>
         <description>UNO База Strong, 30мл. Товар в наличии.</description>
@@ -619,7 +620,7 @@
         <name>BLOOM База Rubber, 50 мл</name>
         <price>1380</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_33831.jpg</picture>
         <url>https://barbaris66.ru/product/bloom-baza-rubber--50-ml</url>
         <description>BLOOM База Rubber, 50 мл. Товар в наличии.</description>
@@ -662,7 +663,7 @@
         <name>BSG Hard Топ c усиленным уф-фильтром без л/с, 20 мл</name>
         <price>650</price>
         <currencyId>RUB</currencyId>
-        <categoryId>75</categoryId>
+        <categoryId>76</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34178.jpg</picture>
         <url>https://barbaris66.ru/product/bsg-hard-top-c-usilennyim-uf-filtrom-bez-l_s--20-ml</url>
         <description>BSG Hard Топ c усиленным уф-фильтром без л/с, 20 мл. Товар в наличии.</description>
@@ -673,7 +674,7 @@
         <vendor>Германия</vendor>
         <price>850</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_4261.jpg</picture>
         <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-RUBBER-Uno-15ml</url>
         <description>UNO База Rubber, 16 мл. Товар в наличии.</description>
@@ -694,7 +695,7 @@
         <vendor>Германия</vendor>
         <price>1400</price>
         <currencyId>RUB</currencyId>
-        <categoryId>75</categoryId>
+        <categoryId>76</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_5210.jpg</picture>
         <url>https://barbaris66.ru/product/verhnee-pokryitie-dlya-gel-laka-Uno-SUPER-SHINE-bez-lipkogo-sloya-30-ml</url>
         <description>UNO Топ Super Shine без л/с, 30мл. Товар в наличии.</description>
@@ -704,7 +705,7 @@
         <name>BSG LIQUID База грунтовочная, 20 мл</name>
         <price>700</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34180.jpg</picture>
         <url>https://barbaris66.ru/product/bsg-liquid-baza-gruntovochnaya--20-ml</url>
         <description>BSG LIQUID База грунтовочная, 20 мл. Товар в наличии.</description>
@@ -714,11 +715,21 @@
         <name>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл</name>
         <price>715</price>
         <currencyId>RUB</currencyId>
-        <categoryId>75</categoryId>
+        <categoryId>76</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_32804.jpg</picture>
         <url>https://barbaris66.ru/product/nail-republic-top-protector-bez-uf-filtra--15-ml</url>
         <description>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл. Товар в наличии.</description>
         <vendorCode>153695</vendorCode>
+      </offer>
+      <offer id="137389" available="true">
+        <name>STERITIMER Пакет комбинированный плоский 100х200 мм, 100 шт</name>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>57</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_30062.jpg</picture>
+        <url>https://barbaris66.ru/product/STERITIMER-paket-kombinirovannyiy-ploskiy-100h200-mm-100-sht</url>
+        <description>STERITIMER Пакет комбинированный плоский 100х200 мм, 100 шт. Товар в наличии.</description>
+        <vendorCode>137389</vendorCode>
       </offer>
       <offer id="219706" available="true">
         <name>Dr.ALEX Аппарат для маникюра и педикюра, с педалью SP-130</name>
@@ -776,7 +787,7 @@
         <name>NAIL REPUBLIC Гель-лак №000 Белый экстра, 10 мл</name>
         <price>420</price>
         <currencyId>RUB</currencyId>
-        <categoryId>78</categoryId>
+        <categoryId>79</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_26474.jpg</picture>
         <url>https://barbaris66.ru/product/Nail-Republic-gel-lak-000-belyiy-ekstra-10-ml</url>
         <description>NAIL REPUBLIC Гель-лак №000 Белый экстра, 10 мл. Товар в наличии.</description>
@@ -799,7 +810,7 @@
         <vendor>Германия</vendor>
         <price>1350</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_3686.jpg</picture>
         <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-RUBBER-Uno-30-ml</url>
         <description>UNO База Rubber, 30 мл. Товар в наличии.</description>
@@ -809,7 +820,7 @@
         <name>MONAMI База SCOTCH, 15 мл</name>
         <price>795</price>
         <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
+        <categoryId>73</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_38610.jpg</picture>
         <url>https://barbaris66.ru/product/monami-baza-scotch--15-ml</url>
         <description>MONAMI База SCOTCH, 15 мл. Товар в наличии.</description>
@@ -819,7 +830,7 @@
         <name>BSG Strong Топ без л/с и уф-фильтра, 20 мл</name>
         <price>700</price>
         <currencyId>RUB</currencyId>
-        <categoryId>75</categoryId>
+        <categoryId>76</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34625.jpg</picture>
         <url>https://barbaris66.ru/product/bsg-strong-top-bez-l_s-i-uf-filtra--20-ml</url>
         <description>BSG Strong Топ без л/с и уф-фильтра, 20 мл. Товар в наличии.</description>
