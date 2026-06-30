@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-06-30 09:24">
+<yml_catalog date="2026-06-30 14:07">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -99,17 +99,16 @@
       <category id="89">Шестигранники, конфетти</category>
       <category id="90">Объемный дизайн</category>
       <category id="91">Пигменты</category>
-      <category id="92">Гель-лак MYKO</category>
-      <category id="93">ZITZ PRO</category>
-      <category id="94">Гель-лак iPERFECT</category>
-      <category id="95">Лак SOUL nails</category>
-      <category id="96">Стикеры</category>
-      <category id="97">Лак IQ BEAUTY</category>
-      <category id="98">Гель-лак MOJO</category>
-      <category id="99">Гель-лак NAVI</category>
-      <category id="100">Основы</category>
-      <category id="101">Сменные файлы-диски</category>
-      <category id="102">Гель-лак Кошачий глаз</category>
+      <category id="92">ZITZ PRO</category>
+      <category id="93">Гель-лак iPERFECT</category>
+      <category id="94">Лак SOUL nails</category>
+      <category id="95">Стикеры</category>
+      <category id="96">Лак IQ BEAUTY</category>
+      <category id="97">Гель-лак MOJO</category>
+      <category id="98">Гель-лак NAVI</category>
+      <category id="99">Основы</category>
+      <category id="100">Сменные файлы-диски</category>
+      <category id="101">Гель-лак Кошачий глаз</category>
     </categories>
     <offers>
       <offer id="8" available="true">
@@ -341,7 +340,7 @@
         <name>SMART Спонжик-диск M, 25 шт</name>
         <price>400</price>
         <currencyId>RUB</currencyId>
-        <categoryId>101</categoryId>
+        <categoryId>100</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_20683.jpg</picture>
         <url>https://barbaris66.ru/product/SMART-sponjik-disk-M-dlya-polirovki-25-sht</url>
         <description>SMART Спонжик-диск M, 25 шт. Товар в наличии.</description>
@@ -776,7 +775,7 @@
         <vendor>Луи Филипп</vendor>
         <price>1350</price>
         <currencyId>RUB</currencyId>
-        <categoryId>100</categoryId>
+        <categoryId>99</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_3771.jpg</picture>
         <url>https://barbaris66.ru/product/SMART-osnova-disk-M-2-sm</url>
         <description>SMART Основа-диск M, 2 см. Товар в наличии.</description>
