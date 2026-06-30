@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-06-30 02:48">
+<yml_catalog date="2026-06-30 09:24">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -337,6 +337,16 @@
         <description>Палочки апельсиновые 11,5 см (100 шт./уп.). Товар в наличии.</description>
         <vendorCode>73424</vendorCode>
       </offer>
+      <offer id="76496" available="true">
+        <name>SMART Спонжик-диск M, 25 шт</name>
+        <price>400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_20683.jpg</picture>
+        <url>https://barbaris66.ru/product/SMART-sponjik-disk-M-dlya-polirovki-25-sht</url>
+        <description>SMART Спонжик-диск M, 25 шт. Товар в наличии.</description>
+        <vendorCode>76496</vendorCode>
+      </offer>
       <offer id="30215" available="true">
         <name>NARTIST Smart Base Rubber, 30 гр</name>
         <vendor>Россия</vendor>
@@ -422,6 +432,16 @@
         <url>https://barbaris66.ru/product/Bloom-baza-dlya-gel-laka-kauchukovaya-15-ml</url>
         <description>BLOOM База Rubber, 15 мл. Товар в наличии.</description>
         <vendorCode>46248</vendorCode>
+      </offer>
+      <offer id="72988" available="true">
+        <name>SMART Молекулярное масло perfume, 100 мл</name>
+        <price>1650</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>26</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_19575.jpg</picture>
+        <url>https://barbaris66.ru/product/SMART-molekulyarnoe-maslo-100-ml</url>
+        <description>SMART Молекулярное масло perfume, 100 мл. Товар в наличии.</description>
+        <vendorCode>72988</vendorCode>
       </offer>
       <offer id="217923" available="true">
         <name>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали</name>
@@ -569,6 +589,16 @@
         <url>https://barbaris66.ru/product/holy-molly-baza-rubber--15-ml</url>
         <description>HOLY MOLLY База RUBBER, 15 мл. Товар в наличии.</description>
         <vendorCode>152249</vendorCode>
+      </offer>
+      <offer id="98221" available="true">
+        <name>SMART Молекулярное масло Fresh fruit, 100 мл</name>
+        <price>1650</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>27</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_23176.jpg</picture>
+        <url>https://barbaris66.ru/product/SMART-molekulyarnoe-maslo-Fresh-fruit-100-ml</url>
+        <description>SMART Молекулярное масло Fresh fruit, 100 мл. Товар в наличии.</description>
+        <vendorCode>98221</vendorCode>
       </offer>
       <offer id="102275" available="true">
         <name>UNO База Strong, 30мл</name>
@@ -721,6 +751,16 @@
         <description>UNO Топ Super Shine без л/с, 30мл. Товар в наличии.</description>
         <vendorCode>16340</vendorCode>
       </offer>
+      <offer id="72984" available="true">
+        <name>SMART Лечебное масло ORGANIC OIL, 30 мл</name>
+        <price>1250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>27</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_19576.jpg</picture>
+        <url>https://barbaris66.ru/product/SMART-lechebnoe-maslo-ORGANIC-OIL-30-ml</url>
+        <description>SMART Лечебное масло ORGANIC OIL, 30 мл. Товар в наличии.</description>
+        <vendorCode>72984</vendorCode>
+      </offer>
       <offer id="169560" available="true">
         <name>BSG LIQUID База грунтовочная, 20 мл</name>
         <price>700</price>
@@ -730,6 +770,17 @@
         <url>https://barbaris66.ru/product/bsg-liquid-baza-gruntovochnaya--20-ml</url>
         <description>BSG LIQUID База грунтовочная, 20 мл. Товар в наличии.</description>
         <vendorCode>169560</vendorCode>
+      </offer>
+      <offer id="20246" available="true">
+        <name>SMART Основа-диск M, 2 см</name>
+        <vendor>Луи Филипп</vendor>
+        <price>1350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>100</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_3771.jpg</picture>
+        <url>https://barbaris66.ru/product/SMART-osnova-disk-M-2-sm</url>
+        <description>SMART Основа-диск M, 2 см. Товар в наличии.</description>
+        <vendorCode>20246</vendorCode>
       </offer>
       <offer id="153695" available="true">
         <name>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл</name>
