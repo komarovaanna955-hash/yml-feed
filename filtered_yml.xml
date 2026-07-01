@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-07-01 02:53">
+<yml_catalog date="2026-07-01 09:36">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -790,16 +790,6 @@
         <url>https://barbaris66.ru/product/nail-republic-top-protector-bez-uf-filtra--15-ml</url>
         <description>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл. Товар в наличии.</description>
         <vendorCode>153695</vendorCode>
-      </offer>
-      <offer id="219706" available="true">
-        <name>Dr.ALEX Аппарат для маникюра и педикюра, с педалью SP-130</name>
-        <price>54300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_41224.jpg</picture>
-        <url>https://barbaris66.ru/product/dralex-apparat-dlya-manikyura-i-pedikyura--sp-130</url>
-        <description>Dr.ALEX Аппарат для маникюра и педикюра, с педалью SP-130. Товар в наличии.</description>
-        <vendorCode>219706</vendorCode>
       </offer>
       <offer id="181611" available="true">
         <name>BLIQUE Набор 5 шт алмазных фрез пламя красная 2.3х10 мм Казань НВ13</name>
