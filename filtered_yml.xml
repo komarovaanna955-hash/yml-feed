@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-07-13 08:57">
+<yml_catalog date="2026-07-13 14:20">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -137,6 +137,16 @@
         <description>4BLANC Вытяжка ALIZE с настольным креплением. Товар в наличии.</description>
         <vendorCode>208548</vendorCode>
       </offer>
+      <offer id="189008" available="true">
+        <name>SUN 1 NEW Лампа с кварцевыми диодами, 48W</name>
+        <price>3290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_38683.jpg</picture>
+        <url>https://barbaris66.ru/product/sun-1-new-lampa-s-kvartsevyimi-diodami--48w</url>
+        <description>SUN 1 NEW Лампа с кварцевыми диодами, 48W. Товар в наличии.</description>
+        <vendorCode>189008</vendorCode>
+      </offer>
       <offer id="219714" available="true">
         <name>Dr.ALEX Аппарат для маникюра и педикюра, с педалью SP-100</name>
         <price>19980</price>
@@ -239,16 +249,6 @@
         <description>LISA PROFI Пилка тонкая прямая серая 180/240, на деревянной основе, 50 шт. Товар в наличии.</description>
         <vendorCode>170121</vendorCode>
       </offer>
-      <offer id="207360" available="true">
-        <name>MARATHON АППАРАТ N2R/H37LN, без педали</name>
-        <price>14290</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_39686.jpg</picture>
-        <url>https://barbaris66.ru/product/marathon-apparat-n2r_h37ln--bez-pedali</url>
-        <description>MARATHON АППАРАТ N2R/H37LN, без педали. Товар в наличии.</description>
-        <vendorCode>207360</vendorCode>
-      </offer>
       <offer id="19676" available="true">
         <name>Мини баф-шлифовщик, цвет в ассортименте, 50 шт</name>
         <price>250</price>
@@ -309,6 +309,16 @@
         <description>BSG Glossy Fluid База универсальная, 20 мл. Товар в наличии.</description>
         <vendorCode>169518</vendorCode>
       </offer>
+      <offer id="188959" available="true">
+        <name>SUN 2C NEW Лампа с кварцевыми диодами 48W</name>
+        <price>4890</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_38684.jpg</picture>
+        <url>https://barbaris66.ru/product/sun-2c-new-lampa-s-kvartsevyimi-diodami-48w</url>
+        <description>SUN 2C NEW Лампа с кварцевыми диодами 48W. Товар в наличии.</description>
+        <vendorCode>188959</vendorCode>
+      </offer>
       <offer id="73424" available="true">
         <name>Палочки апельсиновые 11,5 см (100 шт./уп.)</name>
         <price>95</price>
@@ -328,6 +338,16 @@
         <url>https://barbaris66.ru/product/SMART-sponjik-disk-M-dlya-polirovki-25-sht</url>
         <description>SMART Спонжик-диск M, 25 шт. Товар в наличии.</description>
         <vendorCode>76496</vendorCode>
+      </offer>
+      <offer id="188994" available="true">
+        <name>SUN 5+ NEW Лампа с кварцевыми диодами 48W</name>
+        <price>4990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_38686.jpg</picture>
+        <url>https://barbaris66.ru/product/sun-5-new-lampa-s-kvartsevyimi-diodami-48w</url>
+        <description>SUN 5+ NEW Лампа с кварцевыми диодами 48W. Товар в наличии.</description>
+        <vendorCode>188994</vendorCode>
       </offer>
       <offer id="30215" available="true">
         <name>NARTIST Smart Base Rubber, 30 гр</name>
@@ -424,16 +444,6 @@
         <url>https://barbaris66.ru/product/SMART-molekulyarnoe-maslo-100-ml</url>
         <description>SMART Молекулярное масло perfume, 100 мл. Товар в наличии.</description>
         <vendorCode>72988</vendorCode>
-      </offer>
-      <offer id="217923" available="true">
-        <name>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали</name>
-        <price>13430</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>17</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_41008.jpg</picture>
-        <url>https://barbaris66.ru/product/marathon-apparat-champion-3_h37ln--bez-pedali</url>
-        <description>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали. Товар в наличии.</description>
-        <vendorCode>217923</vendorCode>
       </offer>
       <offer id="23678" available="true">
         <name>ОПТИМАКС ПРОФ концентрат для инструментов и поверхностей, 1 л</name>
@@ -572,16 +582,6 @@
         <description>SMART Молекулярное масло Fresh fruit, 100 мл. Товар в наличии.</description>
         <vendorCode>98221</vendorCode>
       </offer>
-      <offer id="102275" available="true">
-        <name>UNO База Strong, 30мл</name>
-        <price>1350</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>75</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_25498.jpg</picture>
-        <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-STRONG-Uno-30-ml4</url>
-        <description>UNO База Strong, 30мл. Товар в наличии.</description>
-        <vendorCode>102275</vendorCode>
-      </offer>
       <offer id="131895" available="true">
         <name>Гидрогелевые патчи для изоляции нижних ресниц, 50 пар</name>
         <price>290</price>
@@ -647,6 +647,16 @@
         <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Tornado-5-ml</url>
         <description>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 5 мл. Товар в наличии.</description>
         <vendorCode>27113</vendorCode>
+      </offer>
+      <offer id="217051" available="true">
+        <name>SUN 3 NEW Лампа с кварцевыми диодами 48W</name>
+        <price>4895</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_40894.jpg</picture>
+        <url>https://barbaris66.ru/product/sun-3-new-lampa-s-kvartsevyimi-diodami-48w</url>
+        <description>SUN 3 NEW Лампа с кварцевыми диодами 48W. Товар в наличии.</description>
+        <vendorCode>217051</vendorCode>
       </offer>
       <offer id="33131" available="true">
         <name>Палитра веер на кольце овал прозрачная, 50 шт</name>
