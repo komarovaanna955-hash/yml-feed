@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-07-21 02:05">
+<yml_catalog date="2026-07-21 08:15">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -249,6 +249,16 @@
         <description>LISA PROFI Пилка тонкая прямая серая 180/240, на деревянной основе, 50 шт. Товар в наличии.</description>
         <vendorCode>170121</vendorCode>
       </offer>
+      <offer id="207360" available="true">
+        <name>MARATHON АППАРАТ N2R/H37LN, без педали</name>
+        <price>14290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_39686.jpg</picture>
+        <url>https://barbaris66.ru/product/marathon-apparat-n2r_h37ln--bez-pedali</url>
+        <description>MARATHON АППАРАТ N2R/H37LN, без педали. Товар в наличии.</description>
+        <vendorCode>207360</vendorCode>
+      </offer>
       <offer id="19676" available="true">
         <name>Мини баф-шлифовщик, цвет в ассортименте, 50 шт</name>
         <price>250</price>
@@ -289,6 +299,16 @@
         <description>BSG ACRY VISCOUS База с акриловой пудрой, 20 мл. Товар в наличии.</description>
         <vendorCode>169329</vendorCode>
       </offer>
+      <offer id="217931" available="true">
+        <name>MARATHON АППАРАТ CHAMPION 3/H35LSP, без педали</name>
+        <price>13430</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_41009.jpg</picture>
+        <url>https://barbaris66.ru/product/marathon-apparat-champion-3_h35lsp--bez-pedali</url>
+        <description>MARATHON АППАРАТ CHAMPION 3/H35LSP, без педали. Товар в наличии.</description>
+        <vendorCode>217931</vendorCode>
+      </offer>
       <offer id="169518" available="true">
         <name>BSG Glossy Fluid База универсальная, 20 мл</name>
         <price>550</price>
@@ -308,6 +328,16 @@
         <url>https://barbaris66.ru/product/sun-2c-new-lampa-s-kvartsevyimi-diodami-48w</url>
         <description>SUN 2C NEW Лампа с кварцевыми диодами 48W. Товар в наличии.</description>
         <vendorCode>188959</vendorCode>
+      </offer>
+      <offer id="217939" available="true">
+        <name>MARATHON АППАРАТ N2R/H35LSP, без педали</name>
+        <price>14290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_41006.jpg</picture>
+        <url>https://barbaris66.ru/product/marathon-apparat-n2r_h35lsp--bez-pedali</url>
+        <description>MARATHON АППАРАТ N2R/H35LSP, без педали. Товар в наличии.</description>
+        <vendorCode>217939</vendorCode>
       </offer>
       <offer id="73424" available="true">
         <name>Палочки апельсиновые 11,5 см (100 шт./уп.)</name>
@@ -425,6 +455,16 @@
         <description>SMART Молекулярное масло perfume, 100 мл. Товар в наличии.</description>
         <vendorCode>72988</vendorCode>
       </offer>
+      <offer id="217923" available="true">
+        <name>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали</name>
+        <price>13430</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_41008.jpg</picture>
+        <url>https://barbaris66.ru/product/marathon-apparat-champion-3_h37ln--bez-pedali</url>
+        <description>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали. Товар в наличии.</description>
+        <vendorCode>217923</vendorCode>
+      </offer>
       <offer id="23678" available="true">
         <name>ОПТИМАКС ПРОФ концентрат для инструментов и поверхностей, 1 л</name>
         <price>705</price>
@@ -532,6 +572,16 @@
         <description>UNO Топ Super Shine без л/с, 16 мл. Товар в наличии.</description>
         <vendorCode>16337</vendorCode>
       </offer>
+      <offer id="217963" available="true">
+        <name>MARATHON АППАРАТ ESCORT 3/H35LSP, без педали</name>
+        <price>13550</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_41014.jpg</picture>
+        <url>https://barbaris66.ru/product/marathon-apparat-escort-3_h35lsp--bez-pedali</url>
+        <description>MARATHON АППАРАТ ESCORT 3/H35LSP, без педали. Товар в наличии.</description>
+        <vendorCode>217963</vendorCode>
+      </offer>
       <offer id="73852" available="true">
         <name>NARTIST Топ Ultra, 15 мл</name>
         <price>700</price>
@@ -638,6 +688,16 @@
         <description>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 5 мл. Товар в наличии.</description>
         <vendorCode>27113</vendorCode>
       </offer>
+      <offer id="217051" available="true">
+        <name>SUN 3 NEW Лампа с кварцевыми диодами 48W</name>
+        <price>4895</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_40894.jpg</picture>
+        <url>https://barbaris66.ru/product/sun-3-new-lampa-s-kvartsevyimi-diodami-48w</url>
+        <description>SUN 3 NEW Лампа с кварцевыми диодами 48W. Товар в наличии.</description>
+        <vendorCode>217051</vendorCode>
+      </offer>
       <offer id="33131" available="true">
         <name>Палитра веер на кольце овал прозрачная, 50 шт</name>
         <price>200</price>
@@ -691,6 +751,16 @@
         <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-RUBBER-Uno-15ml</url>
         <description>UNO База Rubber, 16 мл. Товар в наличии.</description>
         <vendorCode>16316</vendorCode>
+      </offer>
+      <offer id="134628" available="true">
+        <name>MARATHON Ручка (наконечник) H35LSP, 35000 об/мин</name>
+        <price>8500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_29628.jpg</picture>
+        <url>https://barbaris66.ru/product/Marathon-ruchka-H35LSP-35000-ob_min</url>
+        <description>MARATHON Ручка (наконечник) H35LSP, 35000 об/мин. Товар в наличии.</description>
+        <vendorCode>134628</vendorCode>
       </offer>
       <offer id="16340" available="true">
         <name>UNO Топ Super Shine без л/с, 30мл</name>
