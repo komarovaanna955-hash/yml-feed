@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-07-23 08:20">
+<yml_catalog date="2026-07-23 13:43">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -508,16 +508,6 @@
         <url>https://barbaris66.ru/product/m211k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-s-odnokratnoy-hlorinatsiey-manjeta-s-valikom-tsvet-chernyiy--razmer-s-50_500</url>
         <description>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
         <vendorCode>229707</vendorCode>
-      </offer>
-      <offer id="170699" available="true">
-        <name>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл</name>
-        <price>748</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_34578.jpg</picture>
-        <url>https://barbaris66.ru/product/lovely-kley-dlya-naraschivaniya-resnits-marvel-chernyiy--3-ml</url>
-        <description>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл. Товар в наличии.</description>
-        <vendorCode>170699</vendorCode>
       </offer>
       <offer id="17549" available="true">
         <name>YOKO Ножницы для кутикулы Y SN 103</name>
