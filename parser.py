@@ -1,5 +1,6 @@
-import time
-import requests
+import json
+import re
+import subprocess
 import pandas as pd
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
@@ -43,60 +44,122 @@ print(f"Товаров в Excel: {len(needed_products)}")
 
 print("Скачиваем товары...")
 
-headers = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
+curl_command = [
+    "curl",
+
+    # Завершить работу с ошибкой при HTTP-кодах 400/500
+    "--fail",
+
+    # Переходить по перенаправлениям
+    "--location",
+
+    # Используем HTTP/1.0, чтобы избежать проблем
+    # с некорректной chunked-передачей сервера
+    "--http1.0",
+
+    # Повторные попытки
+    "--retry", "5",
+    "--retry-delay", "5",
+    "--retry-max-time", "180",
+    "--retry-all-errors",
+
+    # Ограничения по времени
+    "--connect-timeout", "20",
+    "--max-time", "120",
+
+    # Показывать текст ошибки, но не прогресс загрузки
+    "--silent",
+    "--show-error",
+
+    # Заголовки запроса
+    "--header", "Accept: application/json, text/plain, */*",
+    "--header", "Accept-Encoding: identity",
+    "--header", "Connection: close",
+    "--header", (
+        "User-Agent: Mozilla/5.0 "
+        "(Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 "
+        "(KHTML, like Gecko) "
         "Chrome/130.0 Safari/537.36"
     ),
-    "Accept": "application/json, text/plain, */*",
-    "Accept-Encoding": "identity",
-    "Connection": "close",
-}
 
-products = None
-last_error = None
-max_attempts = 5
+    SOURCE_URL,
+]
 
-for attempt in range(1, max_attempts + 1):
-    try:
-        print(f"Попытка загрузки {attempt}/{max_attempts}...")
+try:
+    result = subprocess.run(
+        curl_command,
+        capture_output=True,
+        check=True,
+        timeout=240
+    )
 
-        response = requests.get(
-            SOURCE_URL,
-            headers=headers,
-            timeout=(15, 60)
-        )
-
-        response.raise_for_status()
-
-        # Преобразование в JSON также находится внутри try.
-        # Если сервер отдаст неполный или поврежденный ответ,
-        # скрипт попробует скачать его повторно.
-        products = response.json()
-
-        print("Данные успешно скачаны.")
-        break
-
-    except (
-        requests.RequestException,
-        ValueError
-    ) as error:
-        last_error = error
-
-        print(f"Ошибка загрузки: {error}")
-
-        if attempt < max_attempts:
-            wait_seconds = attempt * 5
-
-            print(f"Повторная попытка через {wait_seconds} сек...")
-            time.sleep(wait_seconds)
-
-if products is None:
+except FileNotFoundError as error:
     raise RuntimeError(
-        f"Не удалось скачать товары после {max_attempts} попыток"
-    ) from last_error
+        "Команда curl не найдена на сервере GitHub Actions."
+    ) from error
 
+except subprocess.TimeoutExpired as error:
+    raise RuntimeError(
+        "Превышено время ожидания при скачивании товаров."
+    ) from error
+
+except subprocess.CalledProcessError as error:
+    error_text = error.stderr.decode(
+        "utf-8",
+        errors="replace"
+    ).strip()
+
+    raise RuntimeError(
+        "Не удалось скачать товары через curl. "
+        f"Ошибка curl: {error_text}"
+    ) from error
+
+response_bytes = result.stdout
+
+if not response_bytes:
+    raise RuntimeError(
+        "Сервер вернул пустой ответ."
+    )
+
+print(
+    f"Получено данных: {len(response_bytes)} байт"
+)
+
+try:
+    response_text = response_bytes.decode(
+        "utf-8-sig"
+    )
+
+except UnicodeDecodeError as error:
+    raise RuntimeError(
+        "Ответ сервера имеет неизвестную кодировку."
+    ) from error
+
+try:
+    products = json.loads(response_text)
+
+except json.JSONDecodeError as error:
+    preview_start = response_text[:300]
+    preview_end = response_text[-300:]
+
+    print("Начало ответа сервера:")
+    print(preview_start)
+
+    print("Конец ответа сервера:")
+    print(preview_end)
+
+    raise RuntimeError(
+        "Сервер вернул некорректный или неполный JSON. "
+        f"Ошибка около символа {error.pos}: {error.msg}"
+    ) from error
+
+if not isinstance(products, list):
+    raise RuntimeError(
+        "Ожидался список товаров, но сервер вернул другой формат JSON."
+    )
+
+print("Данные успешно скачаны.")
 print(f"Товаров на сайте: {len(products)}")
 
 # =========================================================
@@ -142,12 +205,15 @@ currency.set("rate", "1")
 
 print("Обработка категорий...")
 
-categories_element = ET.SubElement(shop, "categories")
+categories_element = ET.SubElement(
+    shop,
+    "categories"
+)
 
 category_map = {}
 category_id_counter = 1
 
-# Сначала соберем все уникальные категории из JSON
+# Сначала собираем все уникальные категории из JSON
 for product in products:
     cat_name = str(
         product.get("category", "Товары")
@@ -174,7 +240,10 @@ for product in products:
 # ТОВАРЫ
 # =========================================================
 
-offers = ET.SubElement(shop, "offers")
+offers = ET.SubElement(
+    shop,
+    "offers"
+)
 
 added = 0
 not_found = 0
@@ -197,7 +266,7 @@ for needed_name in needed_products:
         needed_name
     ).strip().lower()
 
-    # 1. Пробуем строгое совпадение без учета регистра
+    # 1. Пробуем строгое совпадение без учёта регистра
     product = products_by_name.get(
         needed_name_clean
     )
@@ -233,6 +302,7 @@ for needed_name in needed_products:
             stock_val = int(
                 product.get("stock", 0)
             )
+
         except (ValueError, TypeError):
             stock_val = 0
 
@@ -327,8 +397,6 @@ for needed_name in needed_products:
         ).strip()
 
         if image_url:
-            import re
-
             # Убираем экранирование слешей
             image_url = image_url.replace(
                 "\\/",
@@ -361,7 +429,7 @@ for needed_name in needed_products:
                     )
 
                     # Если внутри ссылки остался старый домен,
-                    # берем значение после последнего http
+                    # берём значение после последнего http
                     if "http" in link:
                         link = (
                             "http"
@@ -371,7 +439,7 @@ for needed_name in needed_products:
                     found_links.append(link)
 
                 if found_links:
-                    # Берем последнюю ссылку
+                    # Берём последнюю ссылку
                     image_url = (
                         found_links[-1].strip()
                     )
@@ -420,8 +488,8 @@ for needed_name in needed_products:
             product.get("url", "")
         )
 
-        # Описание берем из JSON.
-        # Если его нет, создаем стандартное.
+        # Описание берём из JSON.
+        # Если его нет, создаём стандартное.
         description = (
             product.get("description")
             or f"{product_name}. Товар в наличии."
@@ -444,6 +512,7 @@ for needed_name in needed_products:
 
     else:
         not_found += 1
+
         print(
             f"✗ Не найден в JSON: {needed_name}"
         )
