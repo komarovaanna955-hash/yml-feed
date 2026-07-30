@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-07-30 01:53">
+<yml_catalog date="2026-07-30 08:13">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -447,8 +447,8 @@
         <name>BENOVY Перчатки нитриловые голубые 3 гр 100 штук/50 пар (S/Малые)</name>
         <price>420</price>
         <currencyId>RUB</currencyId>
-        <oldprice>470</oldprice>
-        <old_price>470</old_price>
+        <oldprice>450</oldprice>
+        <old_price>450</old_price>
         <categoryId>22</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_42466.jpg</picture>
         <url>https://barbaris66.ru/product/m222k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-goluboy-razmer-s-50_500</url>
@@ -469,8 +469,6 @@
         <name>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (S/Малые)</name>
         <price>495</price>
         <currencyId>RUB</currencyId>
-        <oldprice>570</oldprice>
-        <old_price>570</old_price>
         <categoryId>22</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_42445.jpg</picture>
         <url>https://barbaris66.ru/product/m211k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-s-odnokratnoy-hlorinatsiey-manjeta-s-valikom-tsvet-chernyiy--razmer-s-50_500</url>
@@ -617,8 +615,6 @@
         <name>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (M/Средние)</name>
         <price>520</price>
         <currencyId>RUB</currencyId>
-        <oldprice>600</oldprice>
-        <old_price>600</old_price>
         <categoryId>22</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_42457.jpg</picture>
         <url>https://barbaris66.ru/product/m225k3-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-chernyiy-razmer-m--50_500-par</url>
@@ -661,8 +657,8 @@
         <name>BENOVY Перчатки нитриловые голубые 3 гр 100 штук/50 пар (M/Средние)</name>
         <price>420</price>
         <currencyId>RUB</currencyId>
-        <oldprice>470</oldprice>
-        <old_price>470</old_price>
+        <oldprice>450</oldprice>
+        <old_price>450</old_price>
         <categoryId>22</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_42464.jpg</picture>
         <url>https://barbaris66.ru/product/m222k3-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-goluboy-razmer-m-50_500</url>
