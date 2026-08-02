@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-02 08:12">
+<yml_catalog date="2026-08-02 13:07">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -590,16 +590,6 @@
         <url>https://barbaris66.ru/product/marathon-apparat-escort-3_h35lsp--bez-pedali</url>
         <description>MARATHON АППАРАТ ESCORT 3/H35LSP, без педали. Товар в наличии.</description>
         <vendorCode>217963</vendorCode>
-      </offer>
-      <offer id="73852" available="true">
-        <name>NARTIST Топ Ultra, 15 мл</name>
-        <price>700</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>78</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_19792.jpg</picture>
-        <url>https://barbaris66.ru/product/NARTIST-top-Ultra-bez-lipkogo-sloya-15-ml</url>
-        <description>NARTIST Топ Ultra, 15 мл. Товар в наличии.</description>
-        <vendorCode>73852</vendorCode>
       </offer>
       <offer id="152249" available="true">
         <name>HOLY MOLLY База RUBBER, 15 мл</name>
