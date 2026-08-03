@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-03 02:12">
+<yml_catalog date="2026-08-03 09:32">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -455,6 +455,16 @@
         <description>SMART Молекулярное масло perfume, 100 мл. Товар в наличии.</description>
         <vendorCode>72988</vendorCode>
       </offer>
+      <offer id="229683" available="true">
+        <name>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (S/Малые)</name>
+        <price>520</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>22</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_42456.jpg</picture>
+        <url>https://barbaris66.ru/product/m225k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-chernyiy-razmer-s--50_500-par</url>
+        <description>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
+        <vendorCode>229683</vendorCode>
+      </offer>
       <offer id="217923" available="true">
         <name>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали</name>
         <price>13430</price>
@@ -809,6 +819,16 @@
         <url>https://barbaris66.ru/product/nail-republic-gel-dlya-modelirovaniya-03_1--15-gr</url>
         <description>NAIL REPUBLIC Гель для моделирования №03/1, 15 гр. Товар в наличии.</description>
         <vendorCode>224863</vendorCode>
+      </offer>
+      <offer id="229699" available="true">
+        <name>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (M/Средние)</name>
+        <price>495</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>22</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_42446.jpg</picture>
+        <url>https://barbaris66.ru/product/m211k3-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-s-odnokratnoy-hlorinatsiey-manjeta-s-valikom-tsvet-chernyiy--razmer-m-50_500</url>
+        <description>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (M/Средние). Товар в наличии.</description>
+        <vendorCode>229699</vendorCode>
       </offer>
       <offer id="107019" available="true">
         <name>NAIL REPUBLIC Гель-лак №000 Белый экстра, 10 мл</name>
