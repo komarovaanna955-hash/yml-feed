@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-04 01:58">
+<yml_catalog date="2026-08-04 08:27">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -632,16 +632,6 @@
         <url>https://barbaris66.ru/product/4blank-vyityajka-pro-s-nastolnyim-krepleniem</url>
         <description>4BLANC Вытяжка PRO с настольным креплением. Товар в наличии.</description>
         <vendorCode>208572</vendorCode>
-      </offer>
-      <offer id="170706" available="true">
-        <name>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 3 мл</name>
-        <price>869</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>34</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_34579.jpg</picture>
-        <url>https://barbaris66.ru/product/lovely-kley-dlya-naraschivaniya-resnits-tornado-chernyiy--3-ml</url>
-        <description>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 3 мл. Товар в наличии.</description>
-        <vendorCode>170706</vendorCode>
       </offer>
       <offer id="32459" available="true">
         <name>F-FREZA ТВС фреза кукуруза сиреневая с крестообразно-поперечной нарезкой Т52</name>
