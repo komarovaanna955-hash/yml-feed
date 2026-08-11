@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-11 06:56">
+<yml_catalog date="2026-08-11 12:51">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -307,16 +307,6 @@
         <description>BSG Glossy Fluid База универсальная, 20 мл. Товар в наличии.</description>
         <vendorCode>169518</vendorCode>
       </offer>
-      <offer id="188959" available="true">
-        <name>SUN 2C NEW Лампа с кварцевыми диодами 48W</name>
-        <price>4890</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>12</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_38684.jpg</picture>
-        <url>https://barbaris66.ru/product/sun-2c-new-lampa-s-kvartsevyimi-diodami-48w</url>
-        <description>SUN 2C NEW Лампа с кварцевыми диодами 48W. Товар в наличии.</description>
-        <vendorCode>188959</vendorCode>
-      </offer>
       <offer id="217939" available="true">
         <name>MARATHON АППАРАТ N2R/H35LSP, без педали</name>
         <price>14290</price>
@@ -494,6 +484,16 @@
         <url>https://barbaris66.ru/product/moodnail-top-fix--10-ml</url>
         <description>MOODNAIL Топ FIX, 10 мл. Товар в наличии.</description>
         <vendorCode>177341</vendorCode>
+      </offer>
+      <offer id="134982" available="true">
+        <name>F-FREZA ТВС фреза конус сиреневая с крестообразно-поперечной нарезкой Т85</name>
+        <price>740</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>18</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_29661.jpg</picture>
+        <url>https://barbaris66.ru/product/F-FREZA-freza-tverdosplavnaya-konus-sirenevyiy-s-krupnoy-krestoobraznoy-narezkoy-907102-t85</url>
+        <description>F-FREZA ТВС фреза конус сиреневая с крестообразно-поперечной нарезкой Т85. Товар в наличии.</description>
+        <vendorCode>134982</vendorCode>
       </offer>
       <offer id="229707" available="true">
         <name>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (S/Малые)</name>
