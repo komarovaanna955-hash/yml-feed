@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-27 06:43">
+<yml_catalog date="2026-08-27 21:35">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -536,16 +536,6 @@
         <url>https://barbaris66.ru/product/Y-SN-103-nojnitsyi-dlya-kutikulyi</url>
         <description>YOKO Ножницы для кутикулы Y SN 103. Товар в наличии.</description>
         <vendorCode>17549</vendorCode>
-      </offer>
-      <offer id="209619" available="true">
-        <name>VERAKSO Маникюрная вытяжка М800</name>
-        <price>29590</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>13</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_40080.jpg</picture>
-        <url>https://barbaris66.ru/product/verakso-manikyurnaya-vyityajka-m800</url>
-        <description>VERAKSO Маникюрная вытяжка М800. Товар в наличии.</description>
-        <vendorCode>209619</vendorCode>
       </offer>
       <offer id="6539" available="true">
         <name>GEL-OFF Обезжириватель PREMIUM, 1000 мл</name>
