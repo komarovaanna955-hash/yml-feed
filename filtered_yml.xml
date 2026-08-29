@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-29 05:12">
+<yml_catalog date="2026-08-29 12:07">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -90,27 +90,26 @@
       <category id="80">Топы для дизайна</category>
       <category id="81">Гель-лак Nail Republic</category>
       <category id="82">Сухоцветы</category>
-      <category id="83">SMART</category>
-      <category id="84">Жидкие гели и полигели</category>
-      <category id="85">Пленка для ногтей</category>
-      <category id="86">Акриловые фломастеры</category>
-      <category id="87">Гель-лак MOODNAIL</category>
-      <category id="88">Пилки ЧИЛПИЛ</category>
-      <category id="89">Гель-лак OSN</category>
-      <category id="90">Поталь</category>
-      <category id="91">Шестигранники, конфетти</category>
-      <category id="92">Объемный дизайн</category>
-      <category id="93">Пигменты</category>
-      <category id="94">ZITZ PRO</category>
-      <category id="95">Гель-лак iPERFECT</category>
-      <category id="96">Лак SOUL nails</category>
-      <category id="97">Стикеры</category>
-      <category id="98">Лак IQ BEAUTY</category>
-      <category id="99">Гель-лак MOJO</category>
-      <category id="100">Гель-лак NAVI</category>
-      <category id="101">Основы</category>
-      <category id="102">Сменные файлы-диски</category>
-      <category id="103">Гель-лак Кошачий глаз</category>
+      <category id="83">Жидкие гели и полигели</category>
+      <category id="84">Пленка для ногтей</category>
+      <category id="85">Акриловые фломастеры</category>
+      <category id="86">Гель-лак MOODNAIL</category>
+      <category id="87">Пилки ЧИЛПИЛ</category>
+      <category id="88">Гель-лак OSN</category>
+      <category id="89">Поталь</category>
+      <category id="90">Шестигранники, конфетти</category>
+      <category id="91">Объемный дизайн</category>
+      <category id="92">Пигменты</category>
+      <category id="93">ZITZ PRO</category>
+      <category id="94">Гель-лак iPERFECT</category>
+      <category id="95">Лак SOUL nails</category>
+      <category id="96">Стикеры</category>
+      <category id="97">Лак IQ BEAUTY</category>
+      <category id="98">Гель-лак MOJO</category>
+      <category id="99">Гель-лак NAVI</category>
+      <category id="100">Основы</category>
+      <category id="101">Сменные файлы-диски</category>
+      <category id="102">Гель-лак Кошачий глаз</category>
     </categories>
     <offers>
       <offer id="8" available="true">
@@ -332,7 +331,7 @@
         <name>SMART Спонжик-диск M, 25 шт</name>
         <price>400</price>
         <currencyId>RUB</currencyId>
-        <categoryId>102</categoryId>
+        <categoryId>101</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_20683.jpg</picture>
         <url>https://barbaris66.ru/product/SMART-sponjik-disk-M-dlya-polirovki-25-sht</url>
         <description>SMART Спонжик-диск M, 25 шт. Товар в наличии.</description>
