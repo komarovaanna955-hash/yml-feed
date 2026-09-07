@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-07 11:20">
+<yml_catalog date="2026-09-07 17:03">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -430,16 +430,6 @@
         <description>BENOVY Перчатки нитриловые голубые 3 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
         <vendorCode>229563</vendorCode>
       </offer>
-      <offer id="177341" available="true">
-        <name>MOODNAIL Топ FIX, 10 мл</name>
-        <price>369</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>74</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_36061.jpg</picture>
-        <url>https://barbaris66.ru/product/moodnail-top-fix--10-ml</url>
-        <description>MOODNAIL Топ FIX, 10 мл. Товар в наличии.</description>
-        <vendorCode>177341</vendorCode>
-      </offer>
       <offer id="134982" available="true">
         <name>F-FREZA ТВС фреза конус сиреневая с крестообразно-поперечной нарезкой Т85</name>
         <price>740</price>
@@ -511,16 +501,6 @@
         <url>https://barbaris66.ru/product/holy-molly-baza-rubber--15-ml</url>
         <description>HOLY MOLLY База RUBBER, 15 мл. Товар в наличии.</description>
         <vendorCode>152249</vendorCode>
-      </offer>
-      <offer id="98221" available="true">
-        <name>SMART Молекулярное масло Fresh fruit, 100 мл</name>
-        <price>1650</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>26</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_23176.jpg</picture>
-        <url>https://barbaris66.ru/product/SMART-molekulyarnoe-maslo-Fresh-fruit-100-ml</url>
-        <description>SMART Молекулярное масло Fresh fruit, 100 мл. Товар в наличии.</description>
-        <vendorCode>98221</vendorCode>
       </offer>
       <offer id="131895" available="true">
         <name>Гидрогелевые патчи для изоляции нижних ресниц, 50 пар</name>
@@ -698,16 +678,6 @@
         <url>https://barbaris66.ru/product/m211k3-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-s-odnokratnoy-hlorinatsiey-manjeta-s-valikom-tsvet-chernyiy--razmer-m-50_500</url>
         <description>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (M/Средние). Товар в наличии.</description>
         <vendorCode>229699</vendorCode>
-      </offer>
-      <offer id="107019" available="true">
-        <name>NAIL REPUBLIC Гель-лак №000 Белый экстра, 10 мл</name>
-        <price>420</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>77</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_26474.jpg</picture>
-        <url>https://barbaris66.ru/product/Nail-Republic-gel-lak-000-belyiy-ekstra-10-ml</url>
-        <description>NAIL REPUBLIC Гель-лак №000 Белый экстра, 10 мл. Товар в наличии.</description>
-        <vendorCode>107019</vendorCode>
       </offer>
       <offer id="192997" available="true">
         <name>LISA PROFI Пилка лодка 100/180, 25 шт</name>
