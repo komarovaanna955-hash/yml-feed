@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-08 02:36">
+<yml_catalog date="2026-09-08 10:26">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -378,6 +378,16 @@
         <description>КМИЗ Набор 5 шт алмазных фрез пламя красная 2.1х8 мм Россия Казань А92. Товар в наличии.</description>
         <vendorCode>132063</vendorCode>
       </offer>
+      <offer id="46248" available="true">
+        <name>BLOOM База Rubber, 15 мл</name>
+        <price>575</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>71</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_12400.jpg</picture>
+        <url>https://barbaris66.ru/product/Bloom-baza-dlya-gel-laka-kauchukovaya-15-ml</url>
+        <description>BLOOM База Rubber, 15 мл. Товар в наличии.</description>
+        <vendorCode>46248</vendorCode>
+      </offer>
       <offer id="72988" available="true">
         <name>SMART Молекулярное масло perfume, 100 мл</name>
         <price>1650</price>
@@ -449,16 +459,6 @@
         <url>https://barbaris66.ru/product/m211k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-s-odnokratnoy-hlorinatsiey-manjeta-s-valikom-tsvet-chernyiy--razmer-s-50_500</url>
         <description>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
         <vendorCode>229707</vendorCode>
-      </offer>
-      <offer id="170699" available="true">
-        <name>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл</name>
-        <price>748</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>33</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_34578.jpg</picture>
-        <url>https://barbaris66.ru/product/lovely-kley-dlya-naraschivaniya-resnits-marvel-chernyiy--3-ml</url>
-        <description>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл. Товар в наличии.</description>
-        <vendorCode>170699</vendorCode>
       </offer>
       <offer id="17549" available="true">
         <name>YOKO Ножницы для кутикулы Y SN 103</name>
@@ -555,6 +555,16 @@
         <description>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (M/Средние). Товар в наличии.</description>
         <vendorCode>229675</vendorCode>
       </offer>
+      <offer id="168303" available="true">
+        <name>BLOOM База Rubber, 50 мл</name>
+        <price>1380</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>71</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_33831.jpg</picture>
+        <url>https://barbaris66.ru/product/bloom-baza-rubber--50-ml</url>
+        <description>BLOOM База Rubber, 50 мл. Товар в наличии.</description>
+        <vendorCode>168303</vendorCode>
+      </offer>
       <offer id="33131" available="true">
         <name>Палитра веер на кольце овал прозрачная, 50 шт</name>
         <price>200</price>
@@ -564,6 +574,17 @@
         <url>https://barbaris66.ru/product/palitra-veer-na-koltse-oval-prozrachnaya-50-sht</url>
         <description>Палитра веер на кольце овал прозрачная, 50 шт. Товар в наличии.</description>
         <vendorCode>33131</vendorCode>
+      </offer>
+      <offer id="42911" available="true">
+        <name>BEAJOY Простыни одноразовые в рулоне 70*200 см спанбонд 10 гр/м2, белый, 100 шт</name>
+        <vendor>LAK</vendor>
+        <price>580</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>22</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_11358.jpg</picture>
+        <url>https://barbaris66.ru/product/prostyini-70200-sm-v-rulone-belyie-SMS-100-sht_rul</url>
+        <description>BEAJOY Простыни одноразовые в рулоне 70*200 см спанбонд 10 гр/м2, белый, 100 шт. Товар в наличии.</description>
+        <vendorCode>42911</vendorCode>
       </offer>
       <offer id="229555" available="true">
         <name>BENOVY Перчатки нитриловые голубые 3 гр 100 штук/50 пар (M/Средние)</name>
