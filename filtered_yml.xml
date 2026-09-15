@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-14 21:18">
+<yml_catalog date="2026-09-15 02:57">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -161,6 +161,17 @@
         <description>BSG ANTICRATER Топ без л/с, 20 мл. Товар в наличии.</description>
         <vendorCode>227325</vendorCode>
       </offer>
+      <offer id="13070" available="true">
+        <name>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 5 мл</name>
+        <vendor>Россия</vendor>
+        <price>1078</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>33</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_486.jpg</picture>
+        <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Marvel-5-ml</url>
+        <description>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 5 мл. Товар в наличии.</description>
+        <vendorCode>13070</vendorCode>
+      </offer>
       <offer id="24602" available="true">
         <name>F-FREZA ТВС фреза кукуруза зеленая с крупной крестообразной нарезкой Т10</name>
         <price>650</price>
@@ -232,6 +243,16 @@
         <description>Мини баф-шлифовщик, цвет в ассортименте, 50 шт. Товар в наличии.</description>
         <vendorCode>19676</vendorCode>
       </offer>
+      <offer id="53393" available="true">
+        <name>LOVELY Клей для наращивания ресниц &quot;Focus&quot; черный, 6 мл</name>
+        <price>1199</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>33</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_14322.jpg</picture>
+        <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Focus-6-ml</url>
+        <description>LOVELY Клей для наращивания ресниц &quot;Focus&quot; черный, 6 мл. Товар в наличии.</description>
+        <vendorCode>53393</vendorCode>
+      </offer>
       <offer id="24593" available="true">
         <name>F-FREZA ТВС фреза конус зеленая с крупной крестообразной нарезкой Т13</name>
         <price>650</price>
@@ -301,17 +322,6 @@
         <url>https://barbaris66.ru/product/SMART-sponjik-disk-M-dlya-polirovki-25-sht</url>
         <description>SMART Спонжик-диск M, 25 шт. Товар в наличии.</description>
         <vendorCode>76496</vendorCode>
-      </offer>
-      <offer id="30215" available="true">
-        <name>NARTIST Smart Base Rubber, 30 гр</name>
-        <vendor>Россия</vendor>
-        <price>1100</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>71</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_10134.jpg</picture>
-        <url>https://barbaris66.ru/product/NARTIST-kauchukovaya-baza-Smart-Base-Rubber-30-g</url>
-        <description>NARTIST Smart Base Rubber, 30 гр. Товар в наличии.</description>
-        <vendorCode>30215</vendorCode>
       </offer>
       <offer id="24620" available="true">
         <name>F-FREZA ТВС фреза кукуруза сиреневая с крестообразно-поперечной нарезкой Т9</name>
@@ -430,6 +440,16 @@
         <description>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
         <vendorCode>229707</vendorCode>
       </offer>
+      <offer id="170699" available="true">
+        <name>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл</name>
+        <price>748</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>33</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_34578.jpg</picture>
+        <url>https://barbaris66.ru/product/lovely-kley-dlya-naraschivaniya-resnits-marvel-chernyiy--3-ml</url>
+        <description>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл. Товар в наличии.</description>
+        <vendorCode>170699</vendorCode>
+      </offer>
       <offer id="17549" available="true">
         <name>YOKO Ножницы для кутикулы Y SN 103</name>
         <vendor>For nails</vendor>
@@ -471,16 +491,6 @@
         <url>https://barbaris66.ru/product/holy-molly-baza-rubber--15-ml</url>
         <description>HOLY MOLLY База RUBBER, 15 мл. Товар в наличии.</description>
         <vendorCode>152249</vendorCode>
-      </offer>
-      <offer id="102275" available="true">
-        <name>UNO База Strong, 30мл</name>
-        <price>1350</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>71</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_25498.jpg</picture>
-        <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-STRONG-Uno-30-ml4</url>
-        <description>UNO База Strong, 30мл. Товар в наличии.</description>
-        <vendorCode>102275</vendorCode>
       </offer>
       <offer id="131895" available="true">
         <name>Гидрогелевые патчи для изоляции нижних ресниц, 50 пар</name>
@@ -544,6 +554,17 @@
         <url>https://barbaris66.ru/product/bloom-baza-rubber--50-ml</url>
         <description>BLOOM База Rubber, 50 мл. Товар в наличии.</description>
         <vendorCode>168303</vendorCode>
+      </offer>
+      <offer id="27113" available="true">
+        <name>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 5 мл</name>
+        <vendor>Bloom</vendor>
+        <price>1199</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>33</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_9098.jpg</picture>
+        <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Tornado-5-ml</url>
+        <description>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 5 мл. Товар в наличии.</description>
+        <vendorCode>27113</vendorCode>
       </offer>
       <offer id="33131" available="true">
         <name>Палитра веер на кольце овал прозрачная, 50 шт</name>
@@ -681,27 +702,6 @@
         <url>https://barbaris66.ru/product/lisa-profi-pilka-lodka-100_180--50-sht</url>
         <description>LISA PROFI Пилка лодка 100/180, 25 шт. Товар в наличии.</description>
         <vendorCode>192997</vendorCode>
-      </offer>
-      <offer id="16319" available="true">
-        <name>UNO База Rubber, 30 мл</name>
-        <vendor>Германия</vendor>
-        <price>1350</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>71</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_3686.jpg</picture>
-        <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-RUBBER-Uno-30-ml</url>
-        <description>UNO База Rubber, 30 мл. Товар в наличии.</description>
-        <vendorCode>16319</vendorCode>
-      </offer>
-      <offer id="189512" available="true">
-        <name>MONAMI База SCOTCH, 15 мл</name>
-        <price>795</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>71</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_38610.jpg</picture>
-        <url>https://barbaris66.ru/product/monami-baza-scotch--15-ml</url>
-        <description>MONAMI База SCOTCH, 15 мл. Товар в наличии.</description>
-        <vendorCode>189512</vendorCode>
       </offer>
     </offers>
   </shop>
