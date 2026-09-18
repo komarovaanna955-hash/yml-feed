@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-18 02:44">
+<yml_catalog date="2026-09-18 10:24">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -110,6 +110,17 @@
       <category id="100">Гель-лак Кошачий глаз</category>
     </categories>
     <offers>
+      <offer id="8" available="true">
+        <name>STRONG Аппарат 210/105L без педали, с сумкой, Корея</name>
+        <vendor>BLIQUE</vendor>
+        <price>15100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_5926.jpg</picture>
+        <url>https://barbaris66.ru/product/apparat-Strong-210_105L-bez-pedali-s-sumkoy-35-000-ob_min-koreya-original</url>
+        <description>STRONG Аппарат 210/105L без педали, с сумкой, Корея. Товар в наличии.</description>
+        <vendorCode>8</vendorCode>
+      </offer>
       <offer id="208548" available="true">
         <name>4BLANC Вытяжка ALIZE с настольным креплением</name>
         <price>37990</price>
@@ -224,6 +235,16 @@
         <description>LISA PROFI Пилка тонкая прямая серая 180/240, на деревянной основе, 50 шт. Товар в наличии.</description>
         <vendorCode>170121</vendorCode>
       </offer>
+      <offer id="207360" available="true">
+        <name>MARATHON АППАРАТ N2R/H37LN, без педали</name>
+        <price>14290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_39686.jpg</picture>
+        <url>https://barbaris66.ru/product/marathon-apparat-n2r_h37ln--bez-pedali</url>
+        <description>MARATHON АППАРАТ N2R/H37LN, без педали. Товар в наличии.</description>
+        <vendorCode>207360</vendorCode>
+      </offer>
       <offer id="19676" available="true">
         <name>Мини баф-шлифовщик, цвет в ассортименте, 50 шт</name>
         <price>250</price>
@@ -294,6 +315,26 @@
         <description>BSG Glossy Fluid База универсальная, 20 мл. Товар в наличии.</description>
         <vendorCode>169518</vendorCode>
       </offer>
+      <offer id="188959" available="true">
+        <name>SUN 2C NEW Лампа с кварцевыми диодами 48W</name>
+        <price>4890</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_38684.jpg</picture>
+        <url>https://barbaris66.ru/product/sun-2c-new-lampa-s-kvartsevyimi-diodami-48w</url>
+        <description>SUN 2C NEW Лампа с кварцевыми диодами 48W. Товар в наличии.</description>
+        <vendorCode>188959</vendorCode>
+      </offer>
+      <offer id="217939" available="true">
+        <name>MARATHON АППАРАТ N2R/H35LSP, без педали</name>
+        <price>14290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_41006.jpg</picture>
+        <url>https://barbaris66.ru/product/marathon-apparat-n2r_h35lsp--bez-pedali</url>
+        <description>MARATHON АППАРАТ N2R/H35LSP, без педали. Товар в наличии.</description>
+        <vendorCode>217939</vendorCode>
+      </offer>
       <offer id="73424" available="true">
         <name>Палочки апельсиновые 11,5 см (100 шт./уп.)</name>
         <price>95</price>
@@ -313,6 +354,27 @@
         <url>https://barbaris66.ru/product/SMART-sponjik-disk-M-dlya-polirovki-25-sht</url>
         <description>SMART Спонжик-диск M, 25 шт. Товар в наличии.</description>
         <vendorCode>76496</vendorCode>
+      </offer>
+      <offer id="188994" available="true">
+        <name>SUN 5+ NEW Лампа с кварцевыми диодами 48W</name>
+        <price>4990</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_38686.jpg</picture>
+        <url>https://barbaris66.ru/product/sun-5-new-lampa-s-kvartsevyimi-diodami-48w</url>
+        <description>SUN 5+ NEW Лампа с кварцевыми диодами 48W. Товар в наличии.</description>
+        <vendorCode>188994</vendorCode>
+      </offer>
+      <offer id="30215" available="true">
+        <name>NARTIST Smart Base Rubber, 30 гр</name>
+        <vendor>Россия</vendor>
+        <price>1100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>72</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_10134.jpg</picture>
+        <url>https://barbaris66.ru/product/NARTIST-kauchukovaya-baza-Smart-Base-Rubber-30-g</url>
+        <description>NARTIST Smart Base Rubber, 30 гр. Товар в наличии.</description>
+        <vendorCode>30215</vendorCode>
       </offer>
       <offer id="24620" available="true">
         <name>F-FREZA ТВС фреза кукуруза сиреневая с крестообразно-поперечной нарезкой Т9</name>
@@ -379,6 +441,16 @@
         <description>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
         <vendorCode>229683</vendorCode>
       </offer>
+      <offer id="217923" available="true">
+        <name>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали</name>
+        <price>13430</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_41008.jpg</picture>
+        <url>https://barbaris66.ru/product/marathon-apparat-champion-3_h37ln--bez-pedali</url>
+        <description>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали. Товар в наличии.</description>
+        <vendorCode>217923</vendorCode>
+      </offer>
       <offer id="23678" available="true">
         <name>ОПТИМАКС ПРОФ концентрат для инструментов и поверхностей, 1 л</name>
         <price>705</price>
@@ -410,6 +482,16 @@
         <url>https://barbaris66.ru/product/F-FREZA-freza-tverdosplavnaya-konus-sirenevyiy-s-krupnoy-krestoobraznoy-narezkoy-907102-t85</url>
         <description>F-FREZA ТВС фреза конус сиреневая с крестообразно-поперечной нарезкой Т85. Товар в наличии.</description>
         <vendorCode>134982</vendorCode>
+      </offer>
+      <offer id="229707" available="true">
+        <name>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (S/Малые)</name>
+        <price>495</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_42445.jpg</picture>
+        <url>https://barbaris66.ru/product/m211k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-s-odnokratnoy-hlorinatsiey-manjeta-s-valikom-tsvet-chernyiy--razmer-s-50_500</url>
+        <description>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
+        <vendorCode>229707</vendorCode>
       </offer>
       <offer id="170699" available="true">
         <name>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл</name>
@@ -621,6 +703,16 @@
         <url>https://barbaris66.ru/product/verhnee-pokryitie-dlya-gel-laka-Uno-SUPER-SHINE-bez-lipkogo-sloya-30-ml</url>
         <description>UNO Топ Super Shine без л/с, 30мл. Товар в наличии.</description>
         <vendorCode>16340</vendorCode>
+      </offer>
+      <offer id="72984" available="true">
+        <name>SMART Лечебное масло ORGANIC OIL, 30 мл</name>
+        <price>1250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>26</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_19576.jpg</picture>
+        <url>https://barbaris66.ru/product/SMART-lechebnoe-maslo-ORGANIC-OIL-30-ml</url>
+        <description>SMART Лечебное масло ORGANIC OIL, 30 мл. Товар в наличии.</description>
+        <vendorCode>72984</vendorCode>
       </offer>
       <offer id="169560" available="true">
         <name>BSG LIQUID База грунтовочная, 20 мл</name>
