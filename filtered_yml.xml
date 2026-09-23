@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-23 10:37">
+<yml_catalog date="2026-09-23 15:56">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -723,6 +723,16 @@
         <description>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл. Товар в наличии.</description>
         <vendorCode>153695</vendorCode>
       </offer>
+      <offer id="137389" available="true">
+        <name>STERITIMER Пакет комбинированный плоский 100х200 мм, 100 шт</name>
+        <price>355</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>56</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_30062.jpg</picture>
+        <url>https://barbaris66.ru/product/STERITIMER-paket-kombinirovannyiy-ploskiy-100h200-mm-100-sht</url>
+        <description>STERITIMER Пакет комбинированный плоский 100х200 мм, 100 шт. Товар в наличии.</description>
+        <vendorCode>137389</vendorCode>
+      </offer>
       <offer id="181611" available="true">
         <name>BLIQUE Набор 5 шт алмазных фрез пламя красная 2.3х10 мм Казань НВ13</name>
         <price>400</price>
@@ -774,17 +784,6 @@
         <url>https://barbaris66.ru/product/lisa-profi-pilka-lodka-100_180--50-sht</url>
         <description>LISA PROFI Пилка лодка 100/180, 25 шт. Товар в наличии.</description>
         <vendorCode>192997</vendorCode>
-      </offer>
-      <offer id="16319" available="true">
-        <name>UNO База Rubber, 30 мл</name>
-        <vendor>Германия</vendor>
-        <price>1350</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_3686.jpg</picture>
-        <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-RUBBER-Uno-30-ml</url>
-        <description>UNO База Rubber, 30 мл. Товар в наличии.</description>
-        <vendorCode>16319</vendorCode>
       </offer>
       <offer id="171308" available="true">
         <name>BSG Strong Топ без л/с и уф-фильтра, 20 мл</name>
