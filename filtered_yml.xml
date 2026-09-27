@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-09-27 11:12">
+<yml_catalog date="2026-09-27 16:13">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -142,16 +142,6 @@
         <description>Dr.ALEX Аппарат для маникюра и педикюра, с педалью SP-100. Товар в наличии.</description>
         <vendorCode>219714</vendorCode>
       </offer>
-      <offer id="227325" available="true">
-        <name>BSG ANTICRATER Топ без л/с, 20 мл</name>
-        <price>750</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>75</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_42180.jpg</picture>
-        <url>https://barbaris66.ru/product/bsg-anticrater-top-bez-l_s--20-ml</url>
-        <description>BSG ANTICRATER Топ без л/с, 20 мл. Товар в наличии.</description>
-        <vendorCode>227325</vendorCode>
-      </offer>
       <offer id="13070" available="true">
         <name>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 5 мл</name>
         <vendor>Россия</vendor>
@@ -224,6 +214,16 @@
         <description>LISA PROFI Пилка тонкая прямая серая 180/240, на деревянной основе, 50 шт. Товар в наличии.</description>
         <vendorCode>170121</vendorCode>
       </offer>
+      <offer id="207360" available="true">
+        <name>MARATHON АППАРАТ N2R/H37LN, без педали</name>
+        <price>14290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_39686.jpg</picture>
+        <url>https://barbaris66.ru/product/marathon-apparat-n2r_h37ln--bez-pedali</url>
+        <description>MARATHON АППАРАТ N2R/H37LN, без педали. Товар в наличии.</description>
+        <vendorCode>207360</vendorCode>
+      </offer>
       <offer id="19676" available="true">
         <name>Мини баф-шлифовщик, цвет в ассортименте, 50 шт</name>
         <price>250</price>
@@ -293,6 +293,16 @@
         <url>https://barbaris66.ru/product/bsg-glossy-fluid-baza-universalnaya--20-ml</url>
         <description>BSG Glossy Fluid База универсальная, 20 мл. Товар в наличии.</description>
         <vendorCode>169518</vendorCode>
+      </offer>
+      <offer id="217939" available="true">
+        <name>MARATHON АППАРАТ N2R/H35LSP, без педали</name>
+        <price>14290</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_41006.jpg</picture>
+        <url>https://barbaris66.ru/product/marathon-apparat-n2r_h35lsp--bez-pedali</url>
+        <description>MARATHON АППАРАТ N2R/H35LSP, без педали. Товар в наличии.</description>
+        <vendorCode>217939</vendorCode>
       </offer>
       <offer id="73424" available="true">
         <name>Палочки апельсиновые 11,5 см (100 шт./уп.)</name>
@@ -481,16 +491,6 @@
         <url>https://barbaris66.ru/product/SMART-molekulyarnoe-maslo-Fresh-fruit-100-ml</url>
         <description>SMART Молекулярное масло Fresh fruit, 100 мл. Товар в наличии.</description>
         <vendorCode>98221</vendorCode>
-      </offer>
-      <offer id="102275" available="true">
-        <name>UNO База Strong, 30мл</name>
-        <price>1350</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>72</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_25498.jpg</picture>
-        <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-STRONG-Uno-30-ml4</url>
-        <description>UNO База Strong, 30мл. Товар в наличии.</description>
-        <vendorCode>102275</vendorCode>
       </offer>
       <offer id="131895" available="true">
         <name>Гидрогелевые патчи для изоляции нижних ресниц, 50 пар</name>
