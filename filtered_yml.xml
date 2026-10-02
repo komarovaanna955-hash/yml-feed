@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-02 03:38">
+<yml_catalog date="2026-10-02 11:44">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -334,6 +334,17 @@
         <description>SUN 5+ NEW Лампа с кварцевыми диодами 48W. Товар в наличии.</description>
         <vendorCode>188994</vendorCode>
       </offer>
+      <offer id="30215" available="true">
+        <name>NARTIST Smart Base Rubber, 30 гр</name>
+        <vendor>Россия</vendor>
+        <price>1100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>72</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_10134.jpg</picture>
+        <url>https://barbaris66.ru/product/NARTIST-kauchukovaya-baza-Smart-Base-Rubber-30-g</url>
+        <description>NARTIST Smart Base Rubber, 30 гр. Товар в наличии.</description>
+        <vendorCode>30215</vendorCode>
+      </offer>
       <offer id="238896" available="true">
         <name>Dr.ALEX Аппарат для маникюра и педикюра, без педали SP-110</name>
         <price>21930</price>
@@ -409,6 +420,16 @@
         <description>SMART Молекулярное масло perfume, 100 мл. Товар в наличии.</description>
         <vendorCode>72988</vendorCode>
       </offer>
+      <offer id="229683" available="true">
+        <name>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (S/Малые)</name>
+        <price>520</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_42456.jpg</picture>
+        <url>https://barbaris66.ru/product/m225k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-chernyiy-razmer-s--50_500-par</url>
+        <description>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
+        <vendorCode>229683</vendorCode>
+      </offer>
       <offer id="217923" available="true">
         <name>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали</name>
         <price>13430</price>
@@ -451,6 +472,16 @@
         <description>F-FREZA ТВС фреза конус сиреневая с крестообразно-поперечной нарезкой Т85. Товар в наличии.</description>
         <vendorCode>134982</vendorCode>
       </offer>
+      <offer id="229707" available="true">
+        <name>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (S/Малые)</name>
+        <price>495</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_42445.jpg</picture>
+        <url>https://barbaris66.ru/product/m211k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-s-odnokratnoy-hlorinatsiey-manjeta-s-valikom-tsvet-chernyiy--razmer-s-50_500</url>
+        <description>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
+        <vendorCode>229707</vendorCode>
+      </offer>
       <offer id="170699" available="true">
         <name>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл</name>
         <price>748</price>
@@ -460,6 +491,17 @@
         <url>https://barbaris66.ru/product/lovely-kley-dlya-naraschivaniya-resnits-marvel-chernyiy--3-ml</url>
         <description>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл. Товар в наличии.</description>
         <vendorCode>170699</vendorCode>
+      </offer>
+      <offer id="17549" available="true">
+        <name>YOKO Ножницы для кутикулы Y SN 103</name>
+        <vendor>For nails</vendor>
+        <price>849</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_7105.jpg</picture>
+        <url>https://barbaris66.ru/product/Y-SN-103-nojnitsyi-dlya-kutikulyi</url>
+        <description>YOKO Ножницы для кутикулы Y SN 103. Товар в наличии.</description>
+        <vendorCode>17549</vendorCode>
       </offer>
       <offer id="16337" available="true">
         <name>UNO Топ Super Shine без л/с, 16 мл</name>
@@ -502,6 +544,16 @@
         <description>SMART Молекулярное масло Fresh fruit, 100 мл. Товар в наличии.</description>
         <vendorCode>98221</vendorCode>
       </offer>
+      <offer id="102275" available="true">
+        <name>UNO База Strong, 30мл</name>
+        <price>1350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>72</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_25498.jpg</picture>
+        <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-STRONG-Uno-30-ml4</url>
+        <description>UNO База Strong, 30мл. Товар в наличии.</description>
+        <vendorCode>102275</vendorCode>
+      </offer>
       <offer id="131895" available="true">
         <name>Гидрогелевые патчи для изоляции нижних ресниц, 50 пар</name>
         <price>290</price>
@@ -533,6 +585,17 @@
         <url>https://barbaris66.ru/product/lovely-kley-dlya-naraschivaniya-resnits-tornado-chernyiy--3-ml</url>
         <description>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 3 мл. Товар в наличии.</description>
         <vendorCode>170706</vendorCode>
+      </offer>
+      <offer id="32459" available="true">
+        <name>F-FREZA ТВС фреза кукуруза сиреневая с крестообразно-поперечной нарезкой Т52</name>
+        <vendor>Max</vendor>
+        <price>740</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_11022.jpg</picture>
+        <url>https://barbaris66.ru/product/freza-tverdosplavnaya-kukuruza-sirenevaya-s-krestoobrazno-poperechnoy-narezkoy-907001-t52</url>
+        <description>F-FREZA ТВС фреза кукуруза сиреневая с крестообразно-поперечной нарезкой Т52. Товар в наличии.</description>
+        <vendorCode>32459</vendorCode>
       </offer>
       <offer id="229675" available="true">
         <name>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (M/Средние)</name>
@@ -681,6 +744,16 @@
         <description>SMART Основа-диск M, 2 см. Товар в наличии.</description>
         <vendorCode>20246</vendorCode>
       </offer>
+      <offer id="153695" available="true">
+        <name>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл</name>
+        <price>715</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>75</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_32804.jpg</picture>
+        <url>https://barbaris66.ru/product/nail-republic-top-protector-bez-uf-filtra--15-ml</url>
+        <description>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл. Товар в наличии.</description>
+        <vendorCode>153695</vendorCode>
+      </offer>
       <offer id="137389" available="true">
         <name>STERITIMER Пакет комбинированный плоский 100х200 мм, 100 шт</name>
         <price>355</price>
@@ -732,6 +805,17 @@
         <url>https://barbaris66.ru/product/lisa-profi-pilka-lodka-100_180--50-sht</url>
         <description>LISA PROFI Пилка лодка 100/180, 25 шт. Товар в наличии.</description>
         <vendorCode>192997</vendorCode>
+      </offer>
+      <offer id="16319" available="true">
+        <name>UNO База Rubber, 30 мл</name>
+        <vendor>Германия</vendor>
+        <price>1350</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>72</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_3686.jpg</picture>
+        <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-RUBBER-Uno-30-ml</url>
+        <description>UNO База Rubber, 30 мл. Товар в наличии.</description>
+        <vendorCode>16319</vendorCode>
       </offer>
       <offer id="171308" available="true">
         <name>BSG Strong Топ без л/с и уф-фильтра, 20 мл</name>
