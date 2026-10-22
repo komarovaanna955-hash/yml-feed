@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-22 10:59">
+<yml_catalog date="2026-10-22 16:27">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -435,6 +435,16 @@
         <description>SMART Молекулярное масло perfume, 100 мл. Товар в наличии.</description>
         <vendorCode>72988</vendorCode>
       </offer>
+      <offer id="229683" available="true">
+        <name>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (S/Малые)</name>
+        <price>520</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>23</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_42456.jpg</picture>
+        <url>https://barbaris66.ru/product/m225k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-chernyiy-razmer-s--50_500-par</url>
+        <description>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
+        <vendorCode>229683</vendorCode>
+      </offer>
       <offer id="23678" available="true">
         <name>ОПТИМАКС ПРОФ концентрат для инструментов и поверхностей, 1 л</name>
         <price>705</price>
@@ -750,18 +760,6 @@
         <url>https://barbaris66.ru/product/nabor-5-sht-almaznyih-frez-plamya-krasnaya-23h10-mm-rossiya-kazan-a463</url>
         <description>BLIQUE Набор 5 шт алмазных фрез пламя красная 2.3х10 мм Казань НВ13. Товар в наличии.</description>
         <vendorCode>181611</vendorCode>
-      </offer>
-      <offer id="229547" available="true">
-        <name>BENOVY Перчатки нитриловые белые 3,5 гр 100 штук/50 пар (S/Малые)</name>
-        <price>520</price>
-        <currencyId>RUB</currencyId>
-        <oldprice>710</oldprice>
-        <old_price>710</old_price>
-        <categoryId>23</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_42458.jpg</picture>
-        <url>https://barbaris66.ru/product/m221k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-belyiy-razmer-s-50_500</url>
-        <description>BENOVY Перчатки нитриловые белые 3,5 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
-        <vendorCode>229547</vendorCode>
       </offer>
       <offer id="229699" available="true">
         <name>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (M/Средние)</name>
