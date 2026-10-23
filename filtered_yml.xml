@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-23 10:52">
+<yml_catalog date="2026-10-23 20:52">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -94,25 +94,24 @@
       <category id="84">SMART</category>
       <category id="85">Жидкие гели и полигели</category>
       <category id="86">Пленка для ногтей</category>
-      <category id="87">Акриловые фломастеры</category>
-      <category id="88">Гель-лак MOODNAIL</category>
-      <category id="89">Пилки ЧИЛПИЛ</category>
-      <category id="90">Уход за полостью рта</category>
-      <category id="91">Гель-лак OSN</category>
-      <category id="92">Поталь</category>
-      <category id="93">Шестигранники, конфетти</category>
-      <category id="94">Объемный дизайн</category>
-      <category id="95">Пигменты</category>
-      <category id="96">ZITZ PRO</category>
-      <category id="97">Гель-лак iPERFECT</category>
-      <category id="98">Лак SOUL nails</category>
-      <category id="99">Стикеры</category>
-      <category id="100">Лак IQ BEAUTY</category>
-      <category id="101">Гель-лак MOJO</category>
-      <category id="102">Гель-лак NAVI</category>
-      <category id="103">Основы</category>
-      <category id="104">Сменные файлы-диски</category>
-      <category id="105">Гель-лак Кошачий глаз</category>
+      <category id="87">Гель-лак MOODNAIL</category>
+      <category id="88">Пилки ЧИЛПИЛ</category>
+      <category id="89">Уход за полостью рта</category>
+      <category id="90">Гель-лак OSN</category>
+      <category id="91">Поталь</category>
+      <category id="92">Шестигранники, конфетти</category>
+      <category id="93">Объемный дизайн</category>
+      <category id="94">Пигменты</category>
+      <category id="95">ZITZ PRO</category>
+      <category id="96">Гель-лак iPERFECT</category>
+      <category id="97">Лак SOUL nails</category>
+      <category id="98">Стикеры</category>
+      <category id="99">Лак IQ BEAUTY</category>
+      <category id="100">Гель-лак MOJO</category>
+      <category id="101">Гель-лак NAVI</category>
+      <category id="102">Основы</category>
+      <category id="103">Сменные файлы-диски</category>
+      <category id="104">Гель-лак Кошачий глаз</category>
     </categories>
     <offers>
       <offer id="8" available="true">
@@ -137,16 +136,6 @@
         <url>https://barbaris66.ru/product/4blank-vyityajka-alize-s-nastolnyim-krepleniem</url>
         <description>4BLANC Вытяжка ALIZE с настольным креплением. Товар в наличии.</description>
         <vendorCode>208548</vendorCode>
-      </offer>
-      <offer id="189008" available="true">
-        <name>SUN 1 NEW Лампа с кварцевыми диодами, 48W</name>
-        <price>3290</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>12</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_38683.jpg</picture>
-        <url>https://barbaris66.ru/product/sun-1-new-lampa-s-kvartsevyimi-diodami--48w</url>
-        <description>SUN 1 NEW Лампа с кварцевыми диодами, 48W. Товар в наличии.</description>
-        <vendorCode>189008</vendorCode>
       </offer>
       <offer id="219714" available="true">
         <name>Dr.ALEX Аппарат для маникюра и педикюра, с педалью SP-100</name>
@@ -735,7 +724,7 @@
         <vendor>Луи Филипп</vendor>
         <price>1350</price>
         <currencyId>RUB</currencyId>
-        <categoryId>103</categoryId>
+        <categoryId>102</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_3771.jpg</picture>
         <url>https://barbaris66.ru/product/SMART-osnova-disk-M-2-sm</url>
         <description>SMART Основа-диск M, 2 см. Товар в наличии.</description>
