@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-10-30 03:58">
+<yml_catalog date="2026-10-30 11:58">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -358,6 +358,17 @@
         <description>ФЕРРОПЛАСТ-5 Стерилизатор воздушный. Товар в наличии.</description>
         <vendorCode>64755</vendorCode>
       </offer>
+      <offer id="24620" available="true">
+        <name>F-FREZA ТВС фреза кукуруза сиреневая с крестообразно-поперечной нарезкой Т9</name>
+        <vendor>Россия</vendor>
+        <price>740</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_7850.jpg</picture>
+        <url>https://barbaris66.ru/product/freza-tverdosplavnaya-kukuruza-sirenevaya-s-krestoobrazno-poperechnoy-narezkoy-906001-t9</url>
+        <description>F-FREZA ТВС фреза кукуруза сиреневая с крестообразно-поперечной нарезкой Т9. Товар в наличии.</description>
+        <vendorCode>24620</vendorCode>
+      </offer>
       <offer id="132069" available="true">
         <name>КМИЗ Набор 5 шт алмазных фрез пламя красная 2.3х10 мм Россия Казань А94</name>
         <price>450</price>
@@ -434,6 +445,17 @@
         <description>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали. Товар в наличии.</description>
         <vendorCode>217923</vendorCode>
       </offer>
+      <offer id="13061" available="true">
+        <name>LOVELY Клей для наращивания ресниц &quot;Cleopatra&quot; черный, 5 мл</name>
+        <vendor>Россия</vendor>
+        <price>1518</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>35</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_487.jpg</picture>
+        <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Cleopatra-5-ml</url>
+        <description>LOVELY Клей для наращивания ресниц &quot;Cleopatra&quot; черный, 5 мл. Товар в наличии.</description>
+        <vendorCode>13061</vendorCode>
+      </offer>
       <offer id="23678" available="true">
         <name>ОПТИМАКС ПРОФ концентрат для инструментов и поверхностей, 1 л</name>
         <price>705</price>
@@ -465,6 +487,16 @@
         <url>https://barbaris66.ru/product/F-FREZA-freza-tverdosplavnaya-konus-sirenevyiy-s-krupnoy-krestoobraznoy-narezkoy-907102-t85</url>
         <description>F-FREZA ТВС фреза конус сиреневая с крестообразно-поперечной нарезкой Т85. Товар в наличии.</description>
         <vendorCode>134982</vendorCode>
+      </offer>
+      <offer id="170699" available="true">
+        <name>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл</name>
+        <price>748</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>35</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_34578.jpg</picture>
+        <url>https://barbaris66.ru/product/lovely-kley-dlya-naraschivaniya-resnits-marvel-chernyiy--3-ml</url>
+        <description>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл. Товар в наличии.</description>
+        <vendorCode>170699</vendorCode>
       </offer>
       <offer id="17549" available="true">
         <name>YOKO Ножницы для кутикулы Y SN 103</name>
@@ -740,6 +772,16 @@
         <url>https://barbaris66.ru/product/SMART-osnova-disk-M-2-sm</url>
         <description>SMART Основа-диск M, 2 см. Товар в наличии.</description>
         <vendorCode>20246</vendorCode>
+      </offer>
+      <offer id="153695" available="true">
+        <name>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл</name>
+        <price>715</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>78</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_32804.jpg</picture>
+        <url>https://barbaris66.ru/product/nail-republic-top-protector-bez-uf-filtra--15-ml</url>
+        <description>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл. Товар в наличии.</description>
+        <vendorCode>153695</vendorCode>
       </offer>
       <offer id="137389" available="true">
         <name>STERITIMER Пакет комбинированный плоский 100х200 мм, 100 шт</name>
