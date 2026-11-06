@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-06 04:43">
+<yml_catalog date="2026-11-06 13:36">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -799,6 +799,16 @@
         <description>SMART Основа-диск M, 2 см. Товар в наличии.</description>
         <vendorCode>20246</vendorCode>
       </offer>
+      <offer id="153695" available="true">
+        <name>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл</name>
+        <price>715</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>76</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_32804.jpg</picture>
+        <url>https://barbaris66.ru/product/nail-republic-top-protector-bez-uf-filtra--15-ml</url>
+        <description>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл. Товар в наличии.</description>
+        <vendorCode>153695</vendorCode>
+      </offer>
       <offer id="137389" available="true">
         <name>STERITIMER Пакет комбинированный плоский 100х200 мм, 100 шт</name>
         <price>355</price>
@@ -830,6 +840,16 @@
         <url>https://barbaris66.ru/product/m221k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-belyiy-razmer-s-50_500</url>
         <description>BENOVY Перчатки нитриловые белые 3,5 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
         <vendorCode>229547</vendorCode>
+      </offer>
+      <offer id="224863" available="true">
+        <name>NAIL REPUBLIC Гель для моделирования №03/1, 15 гр</name>
+        <price>505</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>21</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_41869.jpg</picture>
+        <url>https://barbaris66.ru/product/nail-republic-gel-dlya-modelirovaniya-03_1--15-gr</url>
+        <description>NAIL REPUBLIC Гель для моделирования №03/1, 15 гр. Товар в наличии.</description>
+        <vendorCode>224863</vendorCode>
       </offer>
       <offer id="229699" available="true">
         <name>BENOVY Перчатки нитриловые черные 3 гр 100 штук/50 пар (M/Средние)</name>
