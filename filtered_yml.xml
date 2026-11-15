@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-15 13:17">
+<yml_catalog date="2026-11-15 22:23">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -88,29 +88,28 @@
       <category id="78">Топы для дизайна</category>
       <category id="79">Гель-лак Nail Republic</category>
       <category id="80">Сухоцветы</category>
-      <category id="81">SMART</category>
-      <category id="82">Жидкие гели и полигели</category>
-      <category id="83">Пленка для ногтей</category>
-      <category id="84">Гель-лак MOODNAIL</category>
-      <category id="85">Пилки ЧИЛПИЛ</category>
-      <category id="86">Уход за полостью рта</category>
-      <category id="87">Гель-лак OSN</category>
-      <category id="88">Поталь</category>
-      <category id="89">Шестигранники, конфетти</category>
-      <category id="90">Объемный дизайн</category>
-      <category id="91">Хлопья</category>
-      <category id="92">Пигменты</category>
-      <category id="93">ZITZ PRO</category>
-      <category id="94">Гель-лак iPERFECT</category>
-      <category id="95">Лак SOUL nails</category>
-      <category id="96">Стикеры</category>
-      <category id="97">Лак IQ BEAUTY</category>
-      <category id="98">Гель-лак MOJO</category>
-      <category id="99">Гель-лак NAVI</category>
-      <category id="100">Основы</category>
-      <category id="101">Сменные файлы-диски</category>
-      <category id="102">Гель-лак Кошачий глаз</category>
-      <category id="103">Гель для дизайна</category>
+      <category id="81">Жидкие гели и полигели</category>
+      <category id="82">Пленка для ногтей</category>
+      <category id="83">Гель-лак MOODNAIL</category>
+      <category id="84">Пилки ЧИЛПИЛ</category>
+      <category id="85">Уход за полостью рта</category>
+      <category id="86">Гель-лак OSN</category>
+      <category id="87">Поталь</category>
+      <category id="88">Шестигранники, конфетти</category>
+      <category id="89">Объемный дизайн</category>
+      <category id="90">Хлопья</category>
+      <category id="91">Пигменты</category>
+      <category id="92">ZITZ PRO</category>
+      <category id="93">Гель-лак iPERFECT</category>
+      <category id="94">Лак SOUL nails</category>
+      <category id="95">Стикеры</category>
+      <category id="96">Лак IQ BEAUTY</category>
+      <category id="97">Гель-лак MOJO</category>
+      <category id="98">Гель-лак NAVI</category>
+      <category id="99">Основы</category>
+      <category id="100">Сменные файлы-диски</category>
+      <category id="101">Гель-лак Кошачий глаз</category>
+      <category id="102">Гель для дизайна</category>
     </categories>
     <offers>
       <offer id="8" available="true">
@@ -772,7 +771,7 @@
         <vendor>Луи Филипп</vendor>
         <price>1350</price>
         <currencyId>RUB</currencyId>
-        <categoryId>100</categoryId>
+        <categoryId>99</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_3771.jpg</picture>
         <url>https://barbaris66.ru/product/SMART-osnova-disk-M-2-sm</url>
         <description>SMART Основа-диск M, 2 см. Товар в наличии.</description>
