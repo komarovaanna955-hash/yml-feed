@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-17 15:22">
+<yml_catalog date="2026-11-18 14:56">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -88,28 +88,29 @@
       <category id="78">Топы для дизайна</category>
       <category id="79">Гель-лак Nail Republic</category>
       <category id="80">Сухоцветы</category>
-      <category id="81">Жидкие гели и полигели</category>
-      <category id="82">Пленка для ногтей</category>
-      <category id="83">Гель-лак MOODNAIL</category>
-      <category id="84">Пилки ЧИЛПИЛ</category>
-      <category id="85">Уход за полостью рта</category>
-      <category id="86">Гель-лак OSN</category>
-      <category id="87">Поталь</category>
-      <category id="88">Шестигранники, конфетти</category>
-      <category id="89">Объемный дизайн</category>
-      <category id="90">Хлопья</category>
-      <category id="91">Пигменты</category>
-      <category id="92">ZITZ PRO</category>
-      <category id="93">Гель-лак iPERFECT</category>
-      <category id="94">Лак SOUL nails</category>
-      <category id="95">Стикеры</category>
-      <category id="96">Лак IQ BEAUTY</category>
-      <category id="97">Гель-лак MOJO</category>
-      <category id="98">Гель-лак NAVI</category>
-      <category id="99">Основы</category>
-      <category id="100">Сменные файлы-диски</category>
-      <category id="101">Гель-лак Кошачий глаз</category>
-      <category id="102">Гель для дизайна</category>
+      <category id="81">SMART</category>
+      <category id="82">Жидкие гели и полигели</category>
+      <category id="83">Пленка для ногтей</category>
+      <category id="84">Гель-лак MOODNAIL</category>
+      <category id="85">Пилки ЧИЛПИЛ</category>
+      <category id="86">Уход за полостью рта</category>
+      <category id="87">Гель-лак OSN</category>
+      <category id="88">Поталь</category>
+      <category id="89">Шестигранники, конфетти</category>
+      <category id="90">Объемный дизайн</category>
+      <category id="91">Хлопья</category>
+      <category id="92">Пигменты</category>
+      <category id="93">ZITZ PRO</category>
+      <category id="94">Гель-лак iPERFECT</category>
+      <category id="95">Лак SOUL nails</category>
+      <category id="96">Стикеры</category>
+      <category id="97">Лак IQ BEAUTY</category>
+      <category id="98">Гель-лак MOJO</category>
+      <category id="99">Гель-лак NAVI</category>
+      <category id="100">Основы</category>
+      <category id="101">Сменные файлы-диски</category>
+      <category id="102">Гель-лак Кошачий глаз</category>
+      <category id="103">Гель для дизайна</category>
     </categories>
     <offers>
       <offer id="8" available="true">
@@ -297,16 +298,6 @@
         <description>BSG ACRY VISCOUS База с акриловой пудрой, 20 мл. Товар в наличии.</description>
         <vendorCode>169329</vendorCode>
       </offer>
-      <offer id="217931" available="true">
-        <name>MARATHON АППАРАТ CHAMPION 3/H35LSP, без педали</name>
-        <price>13430</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>18</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_41009.jpg</picture>
-        <url>https://barbaris66.ru/product/marathon-apparat-champion-3_h35lsp--bez-pedali</url>
-        <description>MARATHON АППАРАТ CHAMPION 3/H35LSP, без педали. Товар в наличии.</description>
-        <vendorCode>217931</vendorCode>
-      </offer>
       <offer id="169518" available="true">
         <name>BSG Glossy Fluid База универсальная, 20 мл</name>
         <price>550</price>
@@ -452,16 +443,6 @@
         <url>https://barbaris66.ru/product/m225k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-chernyiy-razmer-s--50_500-par</url>
         <description>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
         <vendorCode>229683</vendorCode>
-      </offer>
-      <offer id="217923" available="true">
-        <name>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали</name>
-        <price>13430</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>18</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_41008.jpg</picture>
-        <url>https://barbaris66.ru/product/marathon-apparat-champion-3_h37ln--bez-pedali</url>
-        <description>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали. Товар в наличии.</description>
-        <vendorCode>217923</vendorCode>
       </offer>
       <offer id="23678" available="true">
         <name>ОПТИМАКС ПРОФ концентрат для инструментов и поверхностей, 1 л</name>
@@ -705,7 +686,7 @@
       <offer id="42911" available="true">
         <name>BEAJOY Простыни одноразовые в рулоне 70*200 см спанбонд 10 гр/м2, белый, 100 шт</name>
         <vendor>LAK</vendor>
-        <price>580</price>
+        <price>670</price>
         <currencyId>RUB</currencyId>
         <categoryId>24</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_11358.jpg</picture>
@@ -771,7 +752,7 @@
         <vendor>Луи Филипп</vendor>
         <price>1350</price>
         <currencyId>RUB</currencyId>
-        <categoryId>99</categoryId>
+        <categoryId>100</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_3771.jpg</picture>
         <url>https://barbaris66.ru/product/SMART-osnova-disk-M-2-sm</url>
         <description>SMART Основа-диск M, 2 см. Товар в наличии.</description>
