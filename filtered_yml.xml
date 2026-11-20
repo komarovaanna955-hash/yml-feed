@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-19 07:23">
+<yml_catalog date="2026-11-20 14:45">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -186,16 +186,6 @@
         <url>https://barbaris66.ru/product/freza-tverdosplavnaya-kukuruza-zelenaya-s-krupnoy-krestoobraznoy-narezkoy-406001-t10</url>
         <description>F-FREZA ТВС фреза кукуруза зеленая с крупной крестообразной нарезкой Т10. Товар в наличии.</description>
         <vendorCode>24602</vendorCode>
-      </offer>
-      <offer id="97451" available="true">
-        <name>STRONG Аппарат 211/H400RU без педали, в коробке, Корея</name>
-        <price>18850</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>18</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_22021.jpg</picture>
-        <url>https://barbaris66.ru/product/apparat-Strong-211_H400RU-bez-pedali-v-korobke-37-000-ob_min-koreya</url>
-        <description>STRONG Аппарат 211/H400RU без педали, в коробке, Корея. Товар в наличии.</description>
-        <vendorCode>97451</vendorCode>
       </offer>
       <offer id="173000" available="true">
         <name>LISA PROFI Пилка тонкая прямая серая мини 180/240, на деревянной основе, 50 шт</name>
@@ -412,16 +402,6 @@
         <description>КМИЗ Набор 5 шт алмазных фрез пламя красная 2.1х8 мм Россия Казань А92. Товар в наличии.</description>
         <vendorCode>132063</vendorCode>
       </offer>
-      <offer id="46248" available="true">
-        <name>BLOOM База Rubber, 15 мл</name>
-        <price>575</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>74</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_12400.jpg</picture>
-        <url>https://barbaris66.ru/product/Bloom-baza-dlya-gel-laka-kauchukovaya-15-ml</url>
-        <description>BLOOM База Rubber, 15 мл. Товар в наличии.</description>
-        <vendorCode>46248</vendorCode>
-      </offer>
       <offer id="72988" available="true">
         <name>SMART Молекулярное масло perfume, 100 мл</name>
         <price>1650</price>
@@ -443,6 +423,17 @@
         <url>https://barbaris66.ru/product/m225k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-chernyiy-razmer-s--50_500-par</url>
         <description>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
         <vendorCode>229683</vendorCode>
+      </offer>
+      <offer id="13061" available="true">
+        <name>LOVELY Клей для наращивания ресниц &quot;Cleopatra&quot; черный, 5 мл</name>
+        <vendor>Россия</vendor>
+        <price>1518</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>35</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_487.jpg</picture>
+        <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Cleopatra-5-ml</url>
+        <description>LOVELY Клей для наращивания ресниц &quot;Cleopatra&quot; черный, 5 мл. Товар в наличии.</description>
+        <vendorCode>13061</vendorCode>
       </offer>
       <offer id="23678" available="true">
         <name>ОПТИМАКС ПРОФ концентрат для инструментов и поверхностей, 1 л</name>
@@ -632,16 +623,6 @@
         <description>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (M/Средние). Товар в наличии.</description>
         <vendorCode>229675</vendorCode>
       </offer>
-      <offer id="168303" available="true">
-        <name>BLOOM База Rubber, 50 мл</name>
-        <price>1380</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>74</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_33831.jpg</picture>
-        <url>https://barbaris66.ru/product/bloom-baza-rubber--50-ml</url>
-        <description>BLOOM База Rubber, 50 мл. Товар в наличии.</description>
-        <vendorCode>168303</vendorCode>
-      </offer>
       <offer id="27113" available="true">
         <name>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 5 мл</name>
         <vendor>Bloom</vendor>
@@ -726,6 +707,17 @@
         <url>https://barbaris66.ru/product/Marathon-ruchka-H35LSP-35000-ob_min</url>
         <description>MARATHON Ручка (наконечник) H35LSP, 35000 об/мин. Товар в наличии.</description>
         <vendorCode>134628</vendorCode>
+      </offer>
+      <offer id="16340" available="true">
+        <name>UNO Топ Super Shine без л/с, 30мл</name>
+        <vendor>Германия</vendor>
+        <price>1400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>76</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_5210.jpg</picture>
+        <url>https://barbaris66.ru/product/verhnee-pokryitie-dlya-gel-laka-Uno-SUPER-SHINE-bez-lipkogo-sloya-30-ml</url>
+        <description>UNO Топ Super Shine без л/с, 30мл. Товар в наличии.</description>
+        <vendorCode>16340</vendorCode>
       </offer>
       <offer id="72984" available="true">
         <name>SMART Лечебное масло ORGANIC OIL, 30 мл</name>
