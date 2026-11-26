@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-26 01:26">
+<yml_catalog date="2026-11-26 16:12">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -390,6 +390,18 @@
         <description>F-FREZA ТВС фреза кукуруза сиреневая с крестообразно-поперечной нарезкой Т9. Товар в наличии.</description>
         <vendorCode>24620</vendorCode>
       </offer>
+      <offer id="132069" available="true">
+        <name>КМИЗ Набор 5 шт алмазных фрез пламя красная 2.3х10 мм Россия Казань А94</name>
+        <price>450</price>
+        <currencyId>RUB</currencyId>
+        <oldprice>600</oldprice>
+        <old_price>600</old_price>
+        <categoryId>19</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_27828.jpg</picture>
+        <url>https://barbaris66.ru/product/kmiz-nabor-5-sht-almaznyih-frez-plamya-krasnoe-d-23-mm-vyis-10-mm-bezopasnyiy-konets-rossiya-kazan-a94</url>
+        <description>КМИЗ Набор 5 шт алмазных фрез пламя красная 2.3х10 мм Россия Казань А94. Товар в наличии.</description>
+        <vendorCode>132069</vendorCode>
+      </offer>
       <offer id="170128" available="true">
         <name>LISA PROFI Пилка тонкая прямая серая мини 100/180, на деревянной основе, 50 шт</name>
         <price>400</price>
@@ -535,16 +547,6 @@
         <url>https://barbaris66.ru/product/NARTIST-top-Ultra-bez-lipkogo-sloya-15-ml</url>
         <description>NARTIST Топ Ultra, 15 мл. Товар в наличии.</description>
         <vendorCode>73852</vendorCode>
-      </offer>
-      <offer id="152249" available="true">
-        <name>HOLY MOLLY База RUBBER, 15 мл</name>
-        <price>680</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>74</categoryId>
-        <picture>https://barbaris66.ru/public/dir_files/items/image_32560.jpg</picture>
-        <url>https://barbaris66.ru/product/holy-molly-baza-rubber--15-ml</url>
-        <description>HOLY MOLLY База RUBBER, 15 мл. Товар в наличии.</description>
-        <vendorCode>152249</vendorCode>
       </offer>
       <offer id="98221" available="true">
         <name>SMART Молекулярное масло Fresh fruit, 100 мл</name>
