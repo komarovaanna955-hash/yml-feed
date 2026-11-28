@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-28 00:57">
+<yml_catalog date="2026-11-28 14:55">
   <shop>
     <name>Barbaris</name>
     <company>Barbaris</company>
@@ -17,103 +17,111 @@
       <category id="7">Контейнеры и органайзеры</category>
       <category id="8">Магниты для лаков</category>
       <category id="9">Палитры для лаков</category>
-      <category id="10">Щетки для пыли</category>
-      <category id="11">Прочие аксессуары для мастеров маникюра</category>
-      <category id="12">Гель-краски для ногтей</category>
-      <category id="13">Лампы для маникюра</category>
-      <category id="14">Пылесборники</category>
-      <category id="15">Стерилизаторы для инструментов</category>
-      <category id="16">Гель-лак INOX</category>
-      <category id="17">Staleks</category>
-      <category id="18">Yoko</category>
-      <category id="19">Аппараты для маникюра и педикюра</category>
-      <category id="20">Фрезы для аппаратного маникюра и педикюра</category>
-      <category id="21">Колпачки и держатели для педикюра</category>
-      <category id="22">Моделирующие гели</category>
-      <category id="23">Полигели и акригели</category>
-      <category id="24">Перчатки</category>
-      <category id="25">Салфетки, простыни</category>
-      <category id="26">Маски</category>
-      <category id="27">Прочие расходные материалы для маникюра</category>
-      <category id="28">Уход за кожей рук, ног и тела</category>
-      <category id="29">Уход за ногтями и кутикулой</category>
-      <category id="30">Кератолитики</category>
-      <category id="31">Слайдеры</category>
-      <category id="32">Ресницы для наращивания</category>
-      <category id="33">Окрашивание бровей и ресниц</category>
-      <category id="34">Ламинирование ресниц и бровей</category>
-      <category id="35">Изоляция нижних ресниц</category>
-      <category id="36">Препараты для наращивания ресниц</category>
-      <category id="37">Инструменты для наращивания ресниц</category>
-      <category id="38">Сопутствующие материалы для наращивания ресниц</category>
-      <category id="39">Средства до депиляции</category>
-      <category id="40">Средства после депиляции</category>
-      <category id="41">Полоски и шпатели</category>
-      <category id="42">Оборудование для депиляции</category>
-      <category id="43">Кисти от Julia Bilej</category>
-      <category id="44">Roubloff</category>
-      <category id="45">Прочие кисти</category>
-      <category id="46">Пилки для ногтей</category>
-      <category id="47">Пилки SMART</category>
-      <category id="48">Шлифовщики для ногтей</category>
-      <category id="49">Полировщики для ногтей</category>
-      <category id="50">Терки педикюрные</category>
-      <category id="51">Бульонки</category>
-      <category id="52">Втирка</category>
-      <category id="53">Стразы для дизайна ногтей</category>
-      <category id="54">Фольга для литья</category>
-      <category id="55">Прочий дизайн</category>
-      <category id="56">Жидкости для инструментов и поверхностей</category>
-      <category id="57">Кожные антисептики</category>
-      <category id="58">Емкости для дезинфекции и стерилизации</category>
-      <category id="59">Крафт-пакеты</category>
-      <category id="60">Индикаторы и журналы контроля</category>
-      <category id="61">Гель-лак LOVELY</category>
-      <category id="62">Воск для депиляции</category>
-      <category id="63">Стемпинг</category>
-      <category id="64">Гель-лак MONAMI</category>
-      <category id="65">Средства для ухода за кожей лица</category>
-      <category id="66">KAPOUS</category>
-      <category id="67">Гель-лак Луи Филипп</category>
-      <category id="68">Пилки NOGTURNE</category>
-      <category id="69">Ультразвуковые мойки</category>
-      <category id="70">Оборудование для работы и фото</category>
-      <category id="71">Гель-лак MIO Nails</category>
-      <category id="72">Гель-лак MOLTINI</category>
-      <category id="73">Пилки STALEKS</category>
-      <category id="74">Nippon Nippers</category>
-      <category id="75">Праймеры, дегидраторы</category>
-      <category id="76">Базы для геля, гель-лака</category>
-      <category id="77">Базы камуфлирующие</category>
-      <category id="78">Топы с липким слоем</category>
-      <category id="79">Топы без липкого слоя</category>
-      <category id="80">Матовые топы</category>
-      <category id="81">Топы для дизайна</category>
-      <category id="82">Гель-лак Nail Republic</category>
-      <category id="83">Сухоцветы</category>
-      <category id="84">SMART</category>
-      <category id="85">Жидкие гели и полигели</category>
-      <category id="86">Пленка для ногтей</category>
-      <category id="87">Гель-лак MOODNAIL</category>
-      <category id="88">Пилки ЧИЛПИЛ</category>
-      <category id="89">Уход за полостью рта</category>
-      <category id="90">Гель-лак OSN</category>
-      <category id="91">Поталь</category>
-      <category id="92">Шестигранники, конфетти</category>
-      <category id="93">Объемный дизайн</category>
-      <category id="94">Хлопья</category>
-      <category id="95">Пигменты</category>
-      <category id="96">ZITZ PRO</category>
-      <category id="97">Гель-лак iPERFECT</category>
-      <category id="98">Лак SOUL nails</category>
-      <category id="99">Стикеры</category>
-      <category id="100">Лак IQ BEAUTY</category>
-      <category id="101">Гель-лак MOJO</category>
-      <category id="102">Гель-лак NAVI</category>
-      <category id="103">Основы</category>
-      <category id="104">Сменные файлы-диски</category>
-      <category id="105">Гель-лак Кошачий глаз</category>
-      <category id="106">Гель для дизайна</category>
+      <category id="10">Подлокотники для мастеров маникюра</category>
+      <category id="11">Щетки для пыли</category>
+      <category id="12">Прочие аксессуары для мастеров маникюра</category>
+      <category id="13">Гель-краски для ногтей</category>
+      <category id="14">Лампы для маникюра</category>
+      <category id="15">Пылесборники</category>
+      <category id="16">Стерилизаторы для инструментов</category>
+      <category id="17">Гель-лак INOX</category>
+      <category id="18">Staleks</category>
+      <category id="19">Yoko</category>
+      <category id="20">Аппараты для маникюра и педикюра</category>
+      <category id="21">Фрезы для аппаратного маникюра и педикюра</category>
+      <category id="22">Колпачки и держатели для педикюра</category>
+      <category id="23">Моделирующие гели</category>
+      <category id="24">Полигели и акригели</category>
+      <category id="25">Перчатки</category>
+      <category id="26">Салфетки, простыни</category>
+      <category id="27">Маски</category>
+      <category id="28">Прочие расходные материалы для маникюра</category>
+      <category id="29">Парафинотерапия</category>
+      <category id="30">Уход за кожей рук, ног и тела</category>
+      <category id="31">Уход за ногтями и кутикулой</category>
+      <category id="32">Кератолитики</category>
+      <category id="33">Слайдеры</category>
+      <category id="34">Ресницы для наращивания</category>
+      <category id="35">Окрашивание бровей и ресниц</category>
+      <category id="36">Ламинирование ресниц и бровей</category>
+      <category id="37">Изоляция нижних ресниц</category>
+      <category id="38">Препараты для наращивания ресниц</category>
+      <category id="39">Инструменты для наращивания ресниц</category>
+      <category id="40">Сопутствующие материалы для наращивания ресниц</category>
+      <category id="41">Сахарная паста для шугаринга</category>
+      <category id="42">Средства до депиляции</category>
+      <category id="43">Средства после депиляции</category>
+      <category id="44">Полоски и шпатели</category>
+      <category id="45">Оборудование для депиляции</category>
+      <category id="46">Кисти от Julia Bilej</category>
+      <category id="47">Roubloff</category>
+      <category id="48">Прочие кисти</category>
+      <category id="49">Пилки для ногтей</category>
+      <category id="50">Пилки SMART</category>
+      <category id="51">Шлифовщики для ногтей</category>
+      <category id="52">Полировщики для ногтей</category>
+      <category id="53">Терки педикюрные</category>
+      <category id="54">Бульонки</category>
+      <category id="55">Втирка</category>
+      <category id="56">Стразы для дизайна ногтей</category>
+      <category id="57">Фольга для литья</category>
+      <category id="58">Прочий дизайн</category>
+      <category id="59">Жидкости для инструментов и поверхностей</category>
+      <category id="60">Кожные антисептики</category>
+      <category id="61">Емкости для дезинфекции и стерилизации</category>
+      <category id="62">Крафт-пакеты</category>
+      <category id="63">Индикаторы и журналы контроля</category>
+      <category id="64">Гель-лак LOVELY</category>
+      <category id="65">Воск для депиляции</category>
+      <category id="66">Гель-пасты для дизайна ногтей</category>
+      <category id="67">Стемпинг</category>
+      <category id="68">Гель-лак MONAMI</category>
+      <category id="69">Средства для ухода за кожей лица</category>
+      <category id="70">KAPOUS</category>
+      <category id="71">Гель-лак Bloom</category>
+      <category id="72">Гель-лак Луи Филипп</category>
+      <category id="73">Пилки NOGTURNE</category>
+      <category id="74">Ультразвуковые мойки</category>
+      <category id="75">Оборудование для работы и фото</category>
+      <category id="76">Гель-лак MIO Nails</category>
+      <category id="77">Гель-лак MOLTINI</category>
+      <category id="78">Пилки STALEKS</category>
+      <category id="79">Nippon Nippers</category>
+      <category id="80">Праймеры, дегидраторы</category>
+      <category id="81">Базы для геля, гель-лака</category>
+      <category id="82">Базы камуфлирующие</category>
+      <category id="83">Топы с липким слоем</category>
+      <category id="84">Топы без липкого слоя</category>
+      <category id="85">Матовые топы</category>
+      <category id="86">Топы для дизайна</category>
+      <category id="87">Гель-лак Nail Republic</category>
+      <category id="88">Сухоцветы</category>
+      <category id="89">Уход за ресницами</category>
+      <category id="90">Лак IVA Nails</category>
+      <category id="91">SMART</category>
+      <category id="92">Жидкие гели и полигели</category>
+      <category id="93">Пленка для ногтей</category>
+      <category id="94">Акриловые фломастеры</category>
+      <category id="95">Гель-лак MOODNAIL</category>
+      <category id="96">Пилки ЧИЛПИЛ</category>
+      <category id="97">Уход за полостью рта</category>
+      <category id="98">Гель-лак OSN</category>
+      <category id="99">Поталь</category>
+      <category id="100">Шестигранники, конфетти</category>
+      <category id="101">Объемный дизайн</category>
+      <category id="102">Хлопья</category>
+      <category id="103">Пигменты</category>
+      <category id="104">ZITZ PRO</category>
+      <category id="105">Гель-лак iPERFECT</category>
+      <category id="106">Лак SOUL nails</category>
+      <category id="107">Стикеры</category>
+      <category id="108">Лак IQ BEAUTY</category>
+      <category id="109">Гель-лак MOJO</category>
+      <category id="110">Гель-лак NAVI</category>
+      <category id="111">Основы</category>
+      <category id="112">Сменные файлы-диски</category>
+      <category id="113">Гель-лак Кошачий глаз</category>
+      <category id="114">Гель для дизайна</category>
     </categories>
     <offers>
       <offer id="8" available="true">
@@ -121,7 +129,7 @@
         <vendor>BLIQUE</vendor>
         <price>15100</price>
         <currencyId>RUB</currencyId>
-        <categoryId>19</categoryId>
+        <categoryId>20</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_5926.jpg</picture>
         <url>https://barbaris66.ru/product/apparat-Strong-210_105L-bez-pedali-s-sumkoy-35-000-ob_min-koreya-original</url>
         <description>STRONG Аппарат 210/105L без педали, с сумкой, Корея. Товар в наличии.</description>
@@ -133,7 +141,7 @@
         <currencyId>RUB</currencyId>
         <oldprice>47990</oldprice>
         <old_price>47990</old_price>
-        <categoryId>14</categoryId>
+        <categoryId>15</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_39817.jpg</picture>
         <url>https://barbaris66.ru/product/4blank-vyityajka-alize-s-nastolnyim-krepleniem</url>
         <description>4BLANC Вытяжка ALIZE с настольным креплением. Товар в наличии.</description>
@@ -143,7 +151,7 @@
         <name>SUN 1 NEW Лампа с кварцевыми диодами, 48W</name>
         <price>3290</price>
         <currencyId>RUB</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>14</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_38683.jpg</picture>
         <url>https://barbaris66.ru/product/sun-1-new-lampa-s-kvartsevyimi-diodami--48w</url>
         <description>SUN 1 NEW Лампа с кварцевыми диодами, 48W. Товар в наличии.</description>
@@ -153,7 +161,7 @@
         <name>Dr.ALEX Аппарат для маникюра и педикюра, с педалью SP-100</name>
         <price>19980</price>
         <currencyId>RUB</currencyId>
-        <categoryId>19</categoryId>
+        <categoryId>20</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_41223.jpg</picture>
         <url>https://barbaris66.ru/product/dralex-apparat-dlya-manikyura-i-pedikyura--sp-100</url>
         <description>Dr.ALEX Аппарат для маникюра и педикюра, с педалью SP-100. Товар в наличии.</description>
@@ -163,7 +171,7 @@
         <name>BSG ANTICRATER Топ без л/с, 20 мл</name>
         <price>750</price>
         <currencyId>RUB</currencyId>
-        <categoryId>79</categoryId>
+        <categoryId>84</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_42180.jpg</picture>
         <url>https://barbaris66.ru/product/bsg-anticrater-top-bez-l_s--20-ml</url>
         <description>BSG ANTICRATER Топ без л/с, 20 мл. Товар в наличии.</description>
@@ -174,7 +182,7 @@
         <vendor>Россия</vendor>
         <price>1078</price>
         <currencyId>RUB</currencyId>
-        <categoryId>36</categoryId>
+        <categoryId>38</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_486.jpg</picture>
         <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Marvel-5-ml</url>
         <description>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 5 мл. Товар в наличии.</description>
@@ -184,7 +192,7 @@
         <name>F-FREZA ТВС фреза кукуруза зеленая с крупной крестообразной нарезкой Т10</name>
         <price>650</price>
         <currencyId>RUB</currencyId>
-        <categoryId>20</categoryId>
+        <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_3880.jpg</picture>
         <url>https://barbaris66.ru/product/freza-tverdosplavnaya-kukuruza-zelenaya-s-krupnoy-krestoobraznoy-narezkoy-406001-t10</url>
         <description>F-FREZA ТВС фреза кукуруза зеленая с крупной крестообразной нарезкой Т10. Товар в наличии.</description>
@@ -194,17 +202,27 @@
         <name>STRONG Аппарат 211/H400RU без педали, в коробке, Корея</name>
         <price>18850</price>
         <currencyId>RUB</currencyId>
-        <categoryId>19</categoryId>
+        <categoryId>20</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_22021.jpg</picture>
         <url>https://barbaris66.ru/product/apparat-Strong-211_H400RU-bez-pedali-v-korobke-37-000-ob_min-koreya</url>
         <description>STRONG Аппарат 211/H400RU без педали, в коробке, Корея. Товар в наличии.</description>
         <vendorCode>97451</vendorCode>
       </offer>
+      <offer id="153347" available="true">
+        <name>HOLY MOLLY Топ BRILLIANT, 15 мл</name>
+        <price>680</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>84</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_32587.jpg</picture>
+        <url>https://barbaris66.ru/product/holy-molly-top-brilliant--15-ml</url>
+        <description>HOLY MOLLY Топ BRILLIANT, 15 мл. Товар в наличии.</description>
+        <vendorCode>153347</vendorCode>
+      </offer>
       <offer id="173000" available="true">
         <name>LISA PROFI Пилка тонкая прямая серая мини 180/240, на деревянной основе, 50 шт</name>
         <price>400</price>
         <currencyId>RUB</currencyId>
-        <categoryId>46</categoryId>
+        <categoryId>49</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_35457.jpg</picture>
         <url>https://barbaris66.ru/product/lisa-profi-pilka-tonkaya-180_240-mini-pryamaya-seraya--na-derevyannoy-osnove--50-sht</url>
         <description>LISA PROFI Пилка тонкая прямая серая мини 180/240, на деревянной основе, 50 шт. Товар в наличии.</description>
@@ -215,7 +233,7 @@
         <vendor>IZIAIR</vendor>
         <price>180</price>
         <currencyId>RUB</currencyId>
-        <categoryId>25</categoryId>
+        <categoryId>26</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_2918.jpg</picture>
         <url>https://barbaris66.ru/product/salfetki-bezvorsovyie-dlya-snyatiya-600-sht_paket-belyie</url>
         <description>Салфетки безворсовые белые 600 шт./пакет. Товар в наличии.</description>
@@ -225,7 +243,7 @@
         <name>NARTIST Smart Base Rubber, 15 мл</name>
         <price>750</price>
         <currencyId>RUB</currencyId>
-        <categoryId>76</categoryId>
+        <categoryId>81</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_9683.jpg</picture>
         <url>https://barbaris66.ru/product/NARTIST-kauchukovaya-baza-Smart-Base-Rubber-15-ml</url>
         <description>NARTIST Smart Base Rubber, 15 мл. Товар в наличии.</description>
@@ -235,7 +253,7 @@
         <name>LISA PROFI Пилка тонкая прямая серая 180/240, на деревянной основе, 50 шт</name>
         <price>650</price>
         <currencyId>RUB</currencyId>
-        <categoryId>46</categoryId>
+        <categoryId>49</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34466.jpg</picture>
         <url>https://barbaris66.ru/product/lisa-profi-pilka-tonkaya-180_240-pryamaya-seraya--na-derevyannoy-osnove--50-sht</url>
         <description>LISA PROFI Пилка тонкая прямая серая 180/240, на деревянной основе, 50 шт. Товар в наличии.</description>
@@ -245,7 +263,7 @@
         <name>MARATHON АППАРАТ N2R/H37LN, без педали</name>
         <price>14290</price>
         <currencyId>RUB</currencyId>
-        <categoryId>19</categoryId>
+        <categoryId>20</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_39686.jpg</picture>
         <url>https://barbaris66.ru/product/marathon-apparat-n2r_h37ln--bez-pedali</url>
         <description>MARATHON АППАРАТ N2R/H37LN, без педали. Товар в наличии.</description>
@@ -255,7 +273,7 @@
         <name>Мини баф-шлифовщик, цвет в ассортименте, 50 шт</name>
         <price>250</price>
         <currencyId>RUB</currencyId>
-        <categoryId>48</categoryId>
+        <categoryId>51</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_1848.jpg</picture>
         <url>https://barbaris66.ru/product/mini-baf-shlifovschik</url>
         <description>Мини баф-шлифовщик, цвет в ассортименте, 50 шт. Товар в наличии.</description>
@@ -265,7 +283,7 @@
         <name>LOVELY Клей для наращивания ресниц &quot;Focus&quot; черный, 6 мл</name>
         <price>1199</price>
         <currencyId>RUB</currencyId>
-        <categoryId>36</categoryId>
+        <categoryId>38</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_14322.jpg</picture>
         <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Focus-6-ml</url>
         <description>LOVELY Клей для наращивания ресниц &quot;Focus&quot; черный, 6 мл. Товар в наличии.</description>
@@ -275,7 +293,7 @@
         <name>F-FREZA ТВС фреза конус зеленая с крупной крестообразной нарезкой Т13</name>
         <price>650</price>
         <currencyId>RUB</currencyId>
-        <categoryId>20</categoryId>
+        <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_7848.jpg</picture>
         <url>https://barbaris66.ru/product/freza-tverdosplavnaya-konus-zelenyiy-s-krupnoy-krestoobraznoy-narezkoy-407102-t13</url>
         <description>F-FREZA ТВС фреза конус зеленая с крупной крестообразной нарезкой Т13. Товар в наличии.</description>
@@ -285,7 +303,7 @@
         <name>LISA PROFI Пилка тонкая прямая серая 100/180, на деревянной основе, 50 шт</name>
         <price>650</price>
         <currencyId>RUB</currencyId>
-        <categoryId>46</categoryId>
+        <categoryId>49</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_35456.jpg</picture>
         <url>https://barbaris66.ru/product/lisa-profi-pilka-tonkaya-100_180-pryamaya-seraya--na-derevyannoy-osnove--50-sht</url>
         <description>LISA PROFI Пилка тонкая прямая серая 100/180, на деревянной основе, 50 шт. Товар в наличии.</description>
@@ -295,7 +313,7 @@
         <name>BSG ACRY VISCOUS База с акриловой пудрой, 20 мл</name>
         <price>650</price>
         <currencyId>RUB</currencyId>
-        <categoryId>76</categoryId>
+        <categoryId>81</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34147.jpg</picture>
         <url>https://barbaris66.ru/product/bsg-acry-baza-s-akrilovoy-pudroy--20-ml</url>
         <description>BSG ACRY VISCOUS База с акриловой пудрой, 20 мл. Товар в наличии.</description>
@@ -305,7 +323,7 @@
         <name>MARATHON АППАРАТ CHAMPION 3/H35LSP, без педали</name>
         <price>13430</price>
         <currencyId>RUB</currencyId>
-        <categoryId>19</categoryId>
+        <categoryId>20</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_41009.jpg</picture>
         <url>https://barbaris66.ru/product/marathon-apparat-champion-3_h35lsp--bez-pedali</url>
         <description>MARATHON АППАРАТ CHAMPION 3/H35LSP, без педали. Товар в наличии.</description>
@@ -315,7 +333,7 @@
         <name>BSG Glossy Fluid База универсальная, 20 мл</name>
         <price>550</price>
         <currencyId>RUB</currencyId>
-        <categoryId>76</categoryId>
+        <categoryId>81</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34174.jpg</picture>
         <url>https://barbaris66.ru/product/bsg-glossy-fluid-baza-universalnaya--20-ml</url>
         <description>BSG Glossy Fluid База универсальная, 20 мл. Товар в наличии.</description>
@@ -325,7 +343,7 @@
         <name>SUN 2C NEW Лампа с кварцевыми диодами 48W</name>
         <price>4890</price>
         <currencyId>RUB</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>14</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_38684.jpg</picture>
         <url>https://barbaris66.ru/product/sun-2c-new-lampa-s-kvartsevyimi-diodami-48w</url>
         <description>SUN 2C NEW Лампа с кварцевыми диодами 48W. Товар в наличии.</description>
@@ -335,7 +353,7 @@
         <name>ФЕРРОПЛАСТ-10 Стерилизатор воздушный</name>
         <price>35065</price>
         <currencyId>RUB</currencyId>
-        <categoryId>15</categoryId>
+        <categoryId>16</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_17478.jpg</picture>
         <url>https://barbaris66.ru/product/ferroplast-10-sterilizator-vozdushnyiy</url>
         <description>ФЕРРОПЛАСТ-10 Стерилизатор воздушный. Товар в наличии.</description>
@@ -345,7 +363,7 @@
         <name>MARATHON АППАРАТ N2R/H35LSP, без педали</name>
         <price>14290</price>
         <currencyId>RUB</currencyId>
-        <categoryId>19</categoryId>
+        <categoryId>20</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_41006.jpg</picture>
         <url>https://barbaris66.ru/product/marathon-apparat-n2r_h35lsp--bez-pedali</url>
         <description>MARATHON АППАРАТ N2R/H35LSP, без педали. Товар в наличии.</description>
@@ -355,17 +373,27 @@
         <name>Палочки апельсиновые 11,5 см (100 шт./уп.)</name>
         <price>95</price>
         <currencyId>RUB</currencyId>
-        <categoryId>27</categoryId>
+        <categoryId>28</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_19685.jpg</picture>
         <url>https://barbaris66.ru/product/TNL-palochki-apelsinovyie-95-sm-100-sht_up</url>
         <description>Палочки апельсиновые 11,5 см (100 шт./уп.). Товар в наличии.</description>
         <vendorCode>73424</vendorCode>
       </offer>
+      <offer id="76496" available="true">
+        <name>SMART Спонжик-диск M, 25 шт</name>
+        <price>400</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>112</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_20683.jpg</picture>
+        <url>https://barbaris66.ru/product/SMART-sponjik-disk-M-dlya-polirovki-25-sht</url>
+        <description>SMART Спонжик-диск M, 25 шт. Товар в наличии.</description>
+        <vendorCode>76496</vendorCode>
+      </offer>
       <offer id="188994" available="true">
         <name>SUN 5+ NEW Лампа с кварцевыми диодами 48W</name>
         <price>4990</price>
         <currencyId>RUB</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>14</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_38686.jpg</picture>
         <url>https://barbaris66.ru/product/sun-5-new-lampa-s-kvartsevyimi-diodami-48w</url>
         <description>SUN 5+ NEW Лампа с кварцевыми диодами 48W. Товар в наличии.</description>
@@ -376,7 +404,7 @@
         <vendor>Россия</vendor>
         <price>1100</price>
         <currencyId>RUB</currencyId>
-        <categoryId>76</categoryId>
+        <categoryId>81</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_10134.jpg</picture>
         <url>https://barbaris66.ru/product/NARTIST-kauchukovaya-baza-Smart-Base-Rubber-30-g</url>
         <description>NARTIST Smart Base Rubber, 30 гр. Товар в наличии.</description>
@@ -386,7 +414,7 @@
         <name>Dr.ALEX Аппарат для маникюра и педикюра, без педали SP-110</name>
         <price>21930</price>
         <currencyId>RUB</currencyId>
-        <categoryId>19</categoryId>
+        <categoryId>20</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_43613.jpg</picture>
         <url>https://barbaris66.ru/product/dralex-apparat-dlya-manikyura-i-pedikyura--bez-pedali-sp-110</url>
         <description>Dr.ALEX Аппарат для маникюра и педикюра, без педали SP-110. Товар в наличии.</description>
@@ -396,7 +424,7 @@
         <name>ФЕРРОПЛАСТ-5 Стерилизатор воздушный</name>
         <price>32708</price>
         <currencyId>RUB</currencyId>
-        <categoryId>15</categoryId>
+        <categoryId>16</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_17479.jpg</picture>
         <url>https://barbaris66.ru/product/ferroplast-5-sterilizator-vozdushnyiy</url>
         <description>ФЕРРОПЛАСТ-5 Стерилизатор воздушный. Товар в наличии.</description>
@@ -407,7 +435,7 @@
         <vendor>Россия</vendor>
         <price>740</price>
         <currencyId>RUB</currencyId>
-        <categoryId>20</categoryId>
+        <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_7850.jpg</picture>
         <url>https://barbaris66.ru/product/freza-tverdosplavnaya-kukuruza-sirenevaya-s-krestoobrazno-poperechnoy-narezkoy-906001-t9</url>
         <description>F-FREZA ТВС фреза кукуруза сиреневая с крестообразно-поперечной нарезкой Т9. Товар в наличии.</description>
@@ -419,7 +447,7 @@
         <currencyId>RUB</currencyId>
         <oldprice>600</oldprice>
         <old_price>600</old_price>
-        <categoryId>20</categoryId>
+        <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_27828.jpg</picture>
         <url>https://barbaris66.ru/product/kmiz-nabor-5-sht-almaznyih-frez-plamya-krasnoe-d-23-mm-vyis-10-mm-bezopasnyiy-konets-rossiya-kazan-a94</url>
         <description>КМИЗ Набор 5 шт алмазных фрез пламя красная 2.3х10 мм Россия Казань А94. Товар в наличии.</description>
@@ -429,7 +457,7 @@
         <name>LISA PROFI Пилка тонкая прямая серая мини 100/180, на деревянной основе, 50 шт</name>
         <price>400</price>
         <currencyId>RUB</currencyId>
-        <categoryId>46</categoryId>
+        <categoryId>49</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34467.jpg</picture>
         <url>https://barbaris66.ru/product/lisa-profi-pilka-tonkaya-100_180-mini-pryamaya-seraya--na-derevyannoy-osnove--50-sht</url>
         <description>LISA PROFI Пилка тонкая прямая серая мини 100/180, на деревянной основе, 50 шт. Товар в наличии.</description>
@@ -441,17 +469,27 @@
         <currencyId>RUB</currencyId>
         <oldprice>600</oldprice>
         <old_price>600</old_price>
-        <categoryId>20</categoryId>
+        <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_27827.jpg</picture>
         <url>https://barbaris66.ru/product/kmiz-nabor-5-sht-almaznyih-frez-plamya-krasnoe-d-21-mm-vyis-8-mm-bezopasnyiy-konets-rossiya-kazan-a92</url>
         <description>КМИЗ Набор 5 шт алмазных фрез пламя красная 2.1х8 мм Россия Казань А92. Товар в наличии.</description>
         <vendorCode>132063</vendorCode>
       </offer>
+      <offer id="46248" available="true">
+        <name>BLOOM База Rubber, 15 мл</name>
+        <price>575</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>81</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_12400.jpg</picture>
+        <url>https://barbaris66.ru/product/Bloom-baza-dlya-gel-laka-kauchukovaya-15-ml</url>
+        <description>BLOOM База Rubber, 15 мл. Товар в наличии.</description>
+        <vendorCode>46248</vendorCode>
+      </offer>
       <offer id="72988" available="true">
         <name>SMART Молекулярное масло perfume, 100 мл</name>
         <price>1650</price>
         <currencyId>RUB</currencyId>
-        <categoryId>28</categoryId>
+        <categoryId>30</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_19575.jpg</picture>
         <url>https://barbaris66.ru/product/SMART-molekulyarnoe-maslo-100-ml</url>
         <description>SMART Молекулярное масло perfume, 100 мл. Товар в наличии.</description>
@@ -463,7 +501,7 @@
         <currencyId>RUB</currencyId>
         <oldprice>680</oldprice>
         <old_price>680</old_price>
-        <categoryId>24</categoryId>
+        <categoryId>25</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_42456.jpg</picture>
         <url>https://barbaris66.ru/product/m225k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-chernyiy-razmer-s--50_500-par</url>
         <description>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
@@ -473,7 +511,7 @@
         <name>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали</name>
         <price>13430</price>
         <currencyId>RUB</currencyId>
-        <categoryId>19</categoryId>
+        <categoryId>20</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_41008.jpg</picture>
         <url>https://barbaris66.ru/product/marathon-apparat-champion-3_h37ln--bez-pedali</url>
         <description>MARATHON АППАРАТ CHAMPION 3/H37LN, без педали. Товар в наличии.</description>
@@ -484,7 +522,7 @@
         <vendor>Россия</vendor>
         <price>1518</price>
         <currencyId>RUB</currencyId>
-        <categoryId>36</categoryId>
+        <categoryId>38</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_487.jpg</picture>
         <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Cleopatra-5-ml</url>
         <description>LOVELY Клей для наращивания ресниц &quot;Cleopatra&quot; черный, 5 мл. Товар в наличии.</description>
@@ -494,7 +532,7 @@
         <name>ОПТИМАКС ПРОФ концентрат для инструментов и поверхностей, 1 л</name>
         <price>705</price>
         <currencyId>RUB</currencyId>
-        <categoryId>56</categoryId>
+        <categoryId>59</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_8217.jpg</picture>
         <url>https://barbaris66.ru/product/sredstvo-dlya-dezinfektsii-optimaks-prof--1-l</url>
         <description>ОПТИМАКС ПРОФ концентрат для инструментов и поверхностей, 1 л. Товар в наличии.</description>
@@ -504,7 +542,7 @@
         <name>MOODNAIL Топ FIX, 10 мл</name>
         <price>369</price>
         <currencyId>RUB</currencyId>
-        <categoryId>79</categoryId>
+        <categoryId>84</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_36061.jpg</picture>
         <url>https://barbaris66.ru/product/moodnail-top-fix--10-ml</url>
         <description>MOODNAIL Топ FIX, 10 мл. Товар в наличии.</description>
@@ -514,7 +552,7 @@
         <name>F-FREZA ТВС фреза конус сиреневая с крестообразно-поперечной нарезкой Т85</name>
         <price>740</price>
         <currencyId>RUB</currencyId>
-        <categoryId>20</categoryId>
+        <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_29661.jpg</picture>
         <url>https://barbaris66.ru/product/F-FREZA-freza-tverdosplavnaya-konus-sirenevyiy-s-krupnoy-krestoobraznoy-narezkoy-907102-t85</url>
         <description>F-FREZA ТВС фреза конус сиреневая с крестообразно-поперечной нарезкой Т85. Товар в наличии.</description>
@@ -524,7 +562,7 @@
         <name>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл</name>
         <price>748</price>
         <currencyId>RUB</currencyId>
-        <categoryId>36</categoryId>
+        <categoryId>38</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34578.jpg</picture>
         <url>https://barbaris66.ru/product/lovely-kley-dlya-naraschivaniya-resnits-marvel-chernyiy--3-ml</url>
         <description>LOVELY Клей для наращивания ресниц &quot;Marvel&quot; черный, 3 мл. Товар в наличии.</description>
@@ -535,7 +573,7 @@
         <vendor>For nails</vendor>
         <price>849</price>
         <currencyId>RUB</currencyId>
-        <categoryId>18</categoryId>
+        <categoryId>19</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_7105.jpg</picture>
         <url>https://barbaris66.ru/product/Y-SN-103-nojnitsyi-dlya-kutikulyi</url>
         <description>YOKO Ножницы для кутикулы Y SN 103. Товар в наличии.</description>
@@ -545,7 +583,7 @@
         <name>VERAKSO Маникюрная вытяжка М800</name>
         <price>29590</price>
         <currencyId>RUB</currencyId>
-        <categoryId>14</categoryId>
+        <categoryId>15</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_40080.jpg</picture>
         <url>https://barbaris66.ru/product/verakso-manikyurnaya-vyityajka-m800</url>
         <description>VERAKSO Маникюрная вытяжка М800. Товар в наличии.</description>
@@ -566,7 +604,7 @@
         <vendor>LAK</vendor>
         <price>850</price>
         <currencyId>RUB</currencyId>
-        <categoryId>76</categoryId>
+        <categoryId>81</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_9982.jpg</picture>
         <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-STRONG-Uno-15-ml</url>
         <description>UNO База Strong, 16 мл. Товар в наличии.</description>
@@ -577,7 +615,7 @@
         <vendor>Германия</vendor>
         <price>890</price>
         <currencyId>RUB</currencyId>
-        <categoryId>79</categoryId>
+        <categoryId>84</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_1604.jpg</picture>
         <url>https://barbaris66.ru/product/verhnee-pokryitie-dlya-gel-laka-Uno-SUPER-SHINE-bez-lipkogo-sloya-15ml</url>
         <description>UNO Топ Super Shine без л/с, 16 мл. Товар в наличии.</description>
@@ -587,7 +625,7 @@
         <name>MARATHON АППАРАТ ESCORT 3/H35LSP, без педали</name>
         <price>13550</price>
         <currencyId>RUB</currencyId>
-        <categoryId>19</categoryId>
+        <categoryId>20</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_41014.jpg</picture>
         <url>https://barbaris66.ru/product/marathon-apparat-escort-3_h35lsp--bez-pedali</url>
         <description>MARATHON АППАРАТ ESCORT 3/H35LSP, без педали. Товар в наличии.</description>
@@ -597,17 +635,27 @@
         <name>NARTIST Топ Ultra, 15 мл</name>
         <price>700</price>
         <currencyId>RUB</currencyId>
-        <categoryId>79</categoryId>
+        <categoryId>84</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_19792.jpg</picture>
         <url>https://barbaris66.ru/product/NARTIST-top-Ultra-bez-lipkogo-sloya-15-ml</url>
         <description>NARTIST Топ Ultra, 15 мл. Товар в наличии.</description>
         <vendorCode>73852</vendorCode>
       </offer>
+      <offer id="152249" available="true">
+        <name>HOLY MOLLY База RUBBER, 15 мл</name>
+        <price>680</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>81</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_32560.jpg</picture>
+        <url>https://barbaris66.ru/product/holy-molly-baza-rubber--15-ml</url>
+        <description>HOLY MOLLY База RUBBER, 15 мл. Товар в наличии.</description>
+        <vendorCode>152249</vendorCode>
+      </offer>
       <offer id="98221" available="true">
         <name>SMART Молекулярное масло Fresh fruit, 100 мл</name>
         <price>1650</price>
         <currencyId>RUB</currencyId>
-        <categoryId>29</categoryId>
+        <categoryId>31</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_23176.jpg</picture>
         <url>https://barbaris66.ru/product/SMART-molekulyarnoe-maslo-Fresh-fruit-100-ml</url>
         <description>SMART Молекулярное масло Fresh fruit, 100 мл. Товар в наличии.</description>
@@ -617,7 +665,7 @@
         <name>UNO База Strong, 30мл</name>
         <price>1350</price>
         <currencyId>RUB</currencyId>
-        <categoryId>76</categoryId>
+        <categoryId>81</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_25498.jpg</picture>
         <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-STRONG-Uno-30-ml4</url>
         <description>UNO База Strong, 30мл. Товар в наличии.</description>
@@ -629,7 +677,7 @@
         <currencyId>RUB</currencyId>
         <oldprice>79990</oldprice>
         <old_price>79990</old_price>
-        <categoryId>14</categoryId>
+        <categoryId>15</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_39816.jpg</picture>
         <url>https://barbaris66.ru/product/4blank-vyityajka-pro-s-nastolnyim-krepleniem</url>
         <description>4BLANC Вытяжка PRO с настольным креплением. Товар в наличии.</description>
@@ -639,7 +687,7 @@
         <name>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 3 мл</name>
         <price>869</price>
         <currencyId>RUB</currencyId>
-        <categoryId>36</categoryId>
+        <categoryId>38</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34579.jpg</picture>
         <url>https://barbaris66.ru/product/lovely-kley-dlya-naraschivaniya-resnits-tornado-chernyiy--3-ml</url>
         <description>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 3 мл. Товар в наличии.</description>
@@ -649,7 +697,7 @@
         <name>ФЕРРОПЛАСТ ПРЕМИУМ-10 Стерилизатор воздушный</name>
         <price>45000</price>
         <currencyId>RUB</currencyId>
-        <categoryId>15</categoryId>
+        <categoryId>16</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34566.jpg</picture>
         <url>https://barbaris66.ru/product/ferroplast-premium-10-sterilizator-vozdushnyiy</url>
         <description>ФЕРРОПЛАСТ ПРЕМИУМ-10 Стерилизатор воздушный. Товар в наличии.</description>
@@ -660,7 +708,7 @@
         <vendor>Max</vendor>
         <price>740</price>
         <currencyId>RUB</currencyId>
-        <categoryId>20</categoryId>
+        <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_11022.jpg</picture>
         <url>https://barbaris66.ru/product/freza-tverdosplavnaya-kukuruza-sirenevaya-s-krestoobrazno-poperechnoy-narezkoy-907001-t52</url>
         <description>F-FREZA ТВС фреза кукуруза сиреневая с крестообразно-поперечной нарезкой Т52. Товар в наличии.</description>
@@ -672,7 +720,7 @@
         <currencyId>RUB</currencyId>
         <oldprice>680</oldprice>
         <old_price>680</old_price>
-        <categoryId>24</categoryId>
+        <categoryId>25</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_42457.jpg</picture>
         <url>https://barbaris66.ru/product/m225k3-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-chernyiy-razmer-m--50_500-par</url>
         <description>BENOVY Перчатки нитриловые черные 3,5 гр 100 штук/50 пар (M/Средние). Товар в наличии.</description>
@@ -682,7 +730,7 @@
         <name>BLOOM База Rubber, 50 мл</name>
         <price>1380</price>
         <currencyId>RUB</currencyId>
-        <categoryId>76</categoryId>
+        <categoryId>81</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_33831.jpg</picture>
         <url>https://barbaris66.ru/product/bloom-baza-rubber--50-ml</url>
         <description>BLOOM База Rubber, 50 мл. Товар в наличии.</description>
@@ -693,7 +741,7 @@
         <vendor>Bloom</vendor>
         <price>1199</price>
         <currencyId>RUB</currencyId>
-        <categoryId>36</categoryId>
+        <categoryId>38</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_9098.jpg</picture>
         <url>https://barbaris66.ru/product/kley-chernyiy-Lovely-Tornado-5-ml</url>
         <description>LOVELY Клей для наращивания ресниц &quot;Tornado&quot; черный, 5 мл. Товар в наличии.</description>
@@ -703,7 +751,7 @@
         <name>SMART Молекулярное масло Мальдивы, 100 мл</name>
         <price>1650</price>
         <currencyId>RUB</currencyId>
-        <categoryId>28</categoryId>
+        <categoryId>30</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_41561.jpg</picture>
         <url>https://barbaris66.ru/product/smart-molekulyarnoe-maslo-maldivyi--100-ml</url>
         <description>SMART Молекулярное масло Мальдивы, 100 мл. Товар в наличии.</description>
@@ -713,7 +761,7 @@
         <name>SUN 3 NEW Лампа с кварцевыми диодами 48W</name>
         <price>4895</price>
         <currencyId>RUB</currencyId>
-        <categoryId>13</categoryId>
+        <categoryId>14</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_40894.jpg</picture>
         <url>https://barbaris66.ru/product/sun-3-new-lampa-s-kvartsevyimi-diodami-48w</url>
         <description>SUN 3 NEW Лампа с кварцевыми диодами 48W. Товар в наличии.</description>
@@ -734,7 +782,7 @@
         <vendor>LAK</vendor>
         <price>670</price>
         <currencyId>RUB</currencyId>
-        <categoryId>25</categoryId>
+        <categoryId>26</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_11358.jpg</picture>
         <url>https://barbaris66.ru/product/prostyini-70200-sm-v-rulone-belyie-SMS-100-sht_rul</url>
         <description>BEAJOY Простыни одноразовые в рулоне 70*200 см спанбонд 10 гр/м2, белый, 100 шт. Товар в наличии.</description>
@@ -746,18 +794,28 @@
         <currencyId>RUB</currencyId>
         <oldprice>555</oldprice>
         <old_price>555</old_price>
-        <categoryId>24</categoryId>
+        <categoryId>25</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_42464.jpg</picture>
         <url>https://barbaris66.ru/product/m222k3-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-goluboy-razmer-m-50_500</url>
         <description>BENOVY Перчатки нитриловые голубые 3 гр 100 штук/50 пар (M/Средние). Товар в наличии.</description>
         <vendorCode>229555</vendorCode>
+      </offer>
+      <offer id="169546" available="true">
+        <name>BSG Hard Топ c усиленным уф-фильтром без л/с, 20 мл</name>
+        <price>650</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>84</categoryId>
+        <picture>https://barbaris66.ru/public/dir_files/items/image_34178.jpg</picture>
+        <url>https://barbaris66.ru/product/bsg-hard-top-c-usilennyim-uf-filtrom-bez-l_s--20-ml</url>
+        <description>BSG Hard Топ c усиленным уф-фильтром без л/с, 20 мл. Товар в наличии.</description>
+        <vendorCode>169546</vendorCode>
       </offer>
       <offer id="16316" available="true">
         <name>UNO База Rubber, 16 мл</name>
         <vendor>Германия</vendor>
         <price>850</price>
         <currencyId>RUB</currencyId>
-        <categoryId>76</categoryId>
+        <categoryId>81</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_4261.jpg</picture>
         <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-RUBBER-Uno-15ml</url>
         <description>UNO База Rubber, 16 мл. Товар в наличии.</description>
@@ -767,7 +825,7 @@
         <name>MARATHON Ручка (наконечник) H35LSP, 35000 об/мин</name>
         <price>8500</price>
         <currencyId>RUB</currencyId>
-        <categoryId>19</categoryId>
+        <categoryId>20</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_29628.jpg</picture>
         <url>https://barbaris66.ru/product/Marathon-ruchka-H35LSP-35000-ob_min</url>
         <description>MARATHON Ручка (наконечник) H35LSP, 35000 об/мин. Товар в наличии.</description>
@@ -778,7 +836,7 @@
         <vendor>Германия</vendor>
         <price>1400</price>
         <currencyId>RUB</currencyId>
-        <categoryId>79</categoryId>
+        <categoryId>84</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_5210.jpg</picture>
         <url>https://barbaris66.ru/product/verhnee-pokryitie-dlya-gel-laka-Uno-SUPER-SHINE-bez-lipkogo-sloya-30-ml</url>
         <description>UNO Топ Super Shine без л/с, 30мл. Товар в наличии.</description>
@@ -788,7 +846,7 @@
         <name>SMART Лечебное масло ORGANIC OIL, 30 мл</name>
         <price>1250</price>
         <currencyId>RUB</currencyId>
-        <categoryId>29</categoryId>
+        <categoryId>31</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_19576.jpg</picture>
         <url>https://barbaris66.ru/product/SMART-lechebnoe-maslo-ORGANIC-OIL-30-ml</url>
         <description>SMART Лечебное масло ORGANIC OIL, 30 мл. Товар в наличии.</description>
@@ -798,7 +856,7 @@
         <name>BSG LIQUID База грунтовочная, 20 мл</name>
         <price>700</price>
         <currencyId>RUB</currencyId>
-        <categoryId>76</categoryId>
+        <categoryId>81</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34180.jpg</picture>
         <url>https://barbaris66.ru/product/bsg-liquid-baza-gruntovochnaya--20-ml</url>
         <description>BSG LIQUID База грунтовочная, 20 мл. Товар в наличии.</description>
@@ -809,7 +867,7 @@
         <vendor>Луи Филипп</vendor>
         <price>1350</price>
         <currencyId>RUB</currencyId>
-        <categoryId>103</categoryId>
+        <categoryId>111</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_3771.jpg</picture>
         <url>https://barbaris66.ru/product/SMART-osnova-disk-M-2-sm</url>
         <description>SMART Основа-диск M, 2 см. Товар в наличии.</description>
@@ -819,7 +877,7 @@
         <name>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл</name>
         <price>715</price>
         <currencyId>RUB</currencyId>
-        <categoryId>79</categoryId>
+        <categoryId>84</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_32804.jpg</picture>
         <url>https://barbaris66.ru/product/nail-republic-top-protector-bez-uf-filtra--15-ml</url>
         <description>NAIL REPUBLIC Топ PROTECTOR без UV фильтра, 15 мл. Товар в наличии.</description>
@@ -829,7 +887,7 @@
         <name>STERITIMER Пакет комбинированный плоский 100х200 мм, 100 шт</name>
         <price>355</price>
         <currencyId>RUB</currencyId>
-        <categoryId>59</categoryId>
+        <categoryId>62</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_30062.jpg</picture>
         <url>https://barbaris66.ru/product/STERITIMER-paket-kombinirovannyiy-ploskiy-100h200-mm-100-sht</url>
         <description>STERITIMER Пакет комбинированный плоский 100х200 мм, 100 шт. Товар в наличии.</description>
@@ -839,7 +897,7 @@
         <name>Dr.ALEX Аппарат для маникюра и педикюра, с педалью SP-130</name>
         <price>54300</price>
         <currencyId>RUB</currencyId>
-        <categoryId>19</categoryId>
+        <categoryId>20</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_41224.jpg</picture>
         <url>https://barbaris66.ru/product/dralex-apparat-dlya-manikyura-i-pedikyura--sp-130</url>
         <description>Dr.ALEX Аппарат для маникюра и педикюра, с педалью SP-130. Товар в наличии.</description>
@@ -849,7 +907,7 @@
         <name>BLIQUE Набор 5 шт алмазных фрез пламя красная 2.3х10 мм Казань НВ13</name>
         <price>400</price>
         <currencyId>RUB</currencyId>
-        <categoryId>20</categoryId>
+        <categoryId>21</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_36642.jpg</picture>
         <url>https://barbaris66.ru/product/nabor-5-sht-almaznyih-frez-plamya-krasnaya-23h10-mm-rossiya-kazan-a463</url>
         <description>BLIQUE Набор 5 шт алмазных фрез пламя красная 2.3х10 мм Казань НВ13. Товар в наличии.</description>
@@ -861,7 +919,7 @@
         <currencyId>RUB</currencyId>
         <oldprice>710</oldprice>
         <old_price>710</old_price>
-        <categoryId>24</categoryId>
+        <categoryId>25</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_42458.jpg</picture>
         <url>https://barbaris66.ru/product/m221k2-perchatki-meditsinskie-diagnosticheskie-smotrovyie-odnorazovyie-nesterilnyie-benovy-nitrilovyie-teksturirovannyie-na-paltsah-neopudrennyie-hlorirovannyie-manjeta-s-valikom--tsvet-belyiy-razmer-s-50_500</url>
         <description>BENOVY Перчатки нитриловые белые 3,5 гр 100 штук/50 пар (S/Малые). Товар в наличии.</description>
@@ -871,7 +929,7 @@
         <name>NAIL REPUBLIC Гель для моделирования №03/1, 15 гр</name>
         <price>505</price>
         <currencyId>RUB</currencyId>
-        <categoryId>22</categoryId>
+        <categoryId>23</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_41869.jpg</picture>
         <url>https://barbaris66.ru/product/nail-republic-gel-dlya-modelirovaniya-03_1--15-gr</url>
         <description>NAIL REPUBLIC Гель для моделирования №03/1, 15 гр. Товар в наличии.</description>
@@ -881,7 +939,7 @@
         <name>NAIL REPUBLIC Гель-лак №000 Белый экстра, 10 мл</name>
         <price>420</price>
         <currencyId>RUB</currencyId>
-        <categoryId>82</categoryId>
+        <categoryId>87</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_26474.jpg</picture>
         <url>https://barbaris66.ru/product/Nail-Republic-gel-lak-000-belyiy-ekstra-10-ml</url>
         <description>NAIL REPUBLIC Гель-лак №000 Белый экстра, 10 мл. Товар в наличии.</description>
@@ -893,7 +951,7 @@
         <currencyId>RUB</currencyId>
         <oldprice>500</oldprice>
         <old_price>500</old_price>
-        <categoryId>46</categoryId>
+        <categoryId>49</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_39169.jpg</picture>
         <url>https://barbaris66.ru/product/lisa-profi-pilka-lodka-100_180--50-sht</url>
         <description>LISA PROFI Пилка лодка 100/180, 25 шт. Товар в наличии.</description>
@@ -904,7 +962,7 @@
         <vendor>Германия</vendor>
         <price>1350</price>
         <currencyId>RUB</currencyId>
-        <categoryId>76</categoryId>
+        <categoryId>81</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_3686.jpg</picture>
         <url>https://barbaris66.ru/product/bazovoe-pokryitie-dlya-gel-laka-RUBBER-Uno-30-ml</url>
         <description>UNO База Rubber, 30 мл. Товар в наличии.</description>
@@ -914,7 +972,7 @@
         <name>MONAMI База SCOTCH, 15 мл</name>
         <price>795</price>
         <currencyId>RUB</currencyId>
-        <categoryId>76</categoryId>
+        <categoryId>81</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_38610.jpg</picture>
         <url>https://barbaris66.ru/product/monami-baza-scotch--15-ml</url>
         <description>MONAMI База SCOTCH, 15 мл. Товар в наличии.</description>
@@ -924,7 +982,7 @@
         <name>BSG Strong Топ без л/с и уф-фильтра, 20 мл</name>
         <price>700</price>
         <currencyId>RUB</currencyId>
-        <categoryId>79</categoryId>
+        <categoryId>84</categoryId>
         <picture>https://barbaris66.ru/public/dir_files/items/image_34625.jpg</picture>
         <url>https://barbaris66.ru/product/bsg-strong-top-bez-l_s-i-uf-filtra--20-ml</url>
         <description>BSG Strong Топ без л/с и уф-фильтра, 20 мл. Товар в наличии.</description>
